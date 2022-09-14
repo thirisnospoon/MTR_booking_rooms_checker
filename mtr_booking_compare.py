@@ -8,6 +8,7 @@ with open(HOTEL_LIST_PATH) as f:
     counter = 1
     failCounter = 0
     successCounter = 0
+    failedList = []
 
     lines = f.readlines()
 
@@ -57,6 +58,7 @@ with open(HOTEL_LIST_PATH) as f:
                            f'mtr rooms: {str(mtrRooms)}\n'
                            f'status: FAILED\n\n')
             failCounter = failCounter + 1
+            failedList.append(counter)
         elif bookingRoomsNumber < mtrRoomsNumber:
             print(f'extra rooms found: {str(mtrRoomsNumber - bookingRoomsNumber)}\n'
                   f'booking rooms: {str(bookingRooms)}\n'
@@ -68,6 +70,7 @@ with open(HOTEL_LIST_PATH) as f:
                            f'mtr rooms: {str(mtrRooms)}\n'
                            f'status: FAILED\n\n')
             failCounter = failCounter + 1
+            failedList.append(counter)
         else:
             print("Status: SUCCESS\n\n")
             with open(OUTPUT_LOG_PATH, "a") as file:
@@ -75,9 +78,11 @@ with open(HOTEL_LIST_PATH) as f:
             successCounter = successCounter + 1
         counter = counter + 1
 
-    print(f'success: {str(successCounter)} \n failed: {str(failCounter)}')
+    print(f'success: {str(successCounter)} \n failed: {str(failCounter)} \n failed hotel numbers: {failCounter}')
 
     with open(OUTPUT_LOG_PATH, "a") as file:
         file.write(f'\n----------------------------------------\n'
                    f'success: {str(successCounter)}\n'
-                   f'failed: {str(failCounter)}\n')
+                   f'failed: {str(failCounter)}\n'
+                   f'failed hotel numbers: {failCounter}\n'
+                   f'If booking rooms count == 0 - its OK, hotel is currently paused at booking.com')

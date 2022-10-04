@@ -1,0 +1,510 @@
+1. adaaran club rannalhi
+Status: SUCCESS
+
+2. adaaran prestige vadoo
+Status: SUCCESS
+
+3. adaaran prestige water villas premium all inclusive
+Status: SUCCESS
+
+4. adaaran select huduran fushi premium all inclusive
+Status: SUCCESS
+
+5. adaaran select meedhupparu premium all inclusive
+Status: SUCCESS
+
+6. alila kothaifaru maldives
+Status: SUCCESS
+
+7. amari havodda maldives
+Status: SUCCESS
+
+8. amaya kuda rah
+Status: SUCCESS
+
+9. amilla maldives resort &amp; residences
+Status: SUCCESS
+
+10. anantara dhigu maldives resort
+Status: SUCCESS
+
+11. anantara kihavah maldives villas
+Status: SUCCESS
+
+12. anantara veli maldives resort
+Status: SUCCESS
+
+13. angsana ihuru all inclusive select
+Status: SUCCESS
+
+14. angsana velavaru – all inclusive select
+Status: SUCCESS
+
+15. angsana velavaru in-ocean villas all inclusive select
+Status: SUCCESS
+
+16. atmosphere kanifushi premium all inclusive with free transfers
+Status: SUCCESS
+
+17. ayada maldives
+Status: SUCCESS
+
+18. baglioni resort maldives the leading hotels of the world
+Status: SUCCESS
+
+19. bandos maldives
+Status: SUCCESS
+
+20. banyan tree vabbinfaru
+Status: SUCCESS
+
+21. baros maldives
+Status: SUCCESS
+
+22. biyadhoo island resort
+Status: SUCCESS
+
+23. brennia kottefaru maldives
+Status: SUCCESS
+
+24. canareef resort maldives
+Status: SUCCESS
+
+25. centara grand island resort &amp; spa
+Status: SUCCESS
+
+26. centara ras fushi resort &amp; spa maldives
+Status: SUCCESS
+
+27. cinnamon dhonveli maldives
+Status: SUCCESS
+
+28. cinnamon hakuraa huraa maldives all inclusive
+Status: SUCCESS
+
+29. cinnamon velifushi maldives
+Status: SUCCESS
+
+30. coco bodu hithi
+Status: SUCCESS
+
+31. coco palm dhuni kolhu
+Status: SUCCESS
+
+32. coco villa ukulhas
+Status: SUCCESS
+
+33. cocoon maldives all inclusive
+Status: SUCCESS
+
+34. como cocoa island
+Status: SUCCESS
+
+35. como maalifushi
+Status: SUCCESS
+
+36. conrad maldives rangali island
+Status: SUCCESS
+
+37. constance halaveli
+Status: SUCCESS
+
+38. constance moofushi maldives all inclusive
+Status: SUCCESS
+
+39. cora cora maldives premium all-inclusive resort
+Status: SUCCESS
+
+40. dhigali maldives a premium all-inclusive resort
+Status: SUCCESS
+
+41. dhigufaru island resort
+Status: SUCCESS
+
+42. diamonds athuruga maldives resort &amp; spa
+Status: SUCCESS
+
+43. diamonds thudufushi maldives resort &amp; spa
+Status: SUCCESS
+
+44. dreamland maldives resort
+Status: SUCCESS
+
+45. drift thelu veliga retreat
+Status: SUCCESS
+
+46. dusit thani maldives
+Status: SUCCESS
+
+47. ellaidhoo maldives by cinnamon
+Status: SUCCESS
+
+48. embudu village resort
+Status: SUCCESS
+
+49. emerald faarufushi resort &amp; spa deluxe all inclusive
+Status: SUCCESS
+
+50. emerald maldives resort &amp; spa-deluxe all inclusive
+Status: SUCCESS
+
+51. eriyadu island resort
+Status: SUCCESS
+
+52. fairmont maldives  sirru fen fushi
+Status: SUCCESS
+
+53. fihalhohi island resort
+Status: SUCCESS
+
+54. filitheyo island resort
+Status: SUCCESS
+
+55. finolhu baa atoll maldives
+Status: SUCCESS
+
+56. fiyavalhu resort maldives
+Status: SUCCESS
+
+57. four seasons resort maldives at kuda huraa
+Status: SUCCESS
+
+58. four seasons resort maldives at landaa giraavaru
+Status: SUCCESS
+
+59. furaveri maldives
+Status: SUCCESS
+
+60. fushifaru maldives
+Status: SUCCESS
+
+61. gangehi island resort &amp; spa
+Status: SUCCESS
+
+62. gili lankanfushi maldives
+Status: SUCCESS
+
+63. grand park kodhipparu maldives
+Status: SUCCESS
+
+64. green leaf guest house omadhoo
+Status: SUCCESS
+
+65. hard rock hotel maldives
+Status: SUCCESS
+
+66. heritance aarah-premium all inclusive
+Status: SUCCESS
+
+67. hideaway beach resort &amp; spa
+Status: SUCCESS
+
+68. hilton maldives amingiri resort &amp; spa
+Status: SUCCESS
+
+69. holiday inn resort kandooma maldives
+Status: FAIL
+bookingURL: https://www.booking.com/hotel/mv/holiday-inn-resort-kandooma-maldives.en-gb.html
+mtrURL: http://31.40.107.188/st_hotel/holiday-inn-resort-kandooma-maldives/
+bookingString:
+toensurethewellbeingofallourguestsandcolleaguespleasenotethattravelersfromhighriskareasmaybesubjecttoadditionalpcrtestingattheresortsdiscretiontransferdetailspleasenotethatthepropertyisonlyaccessiblebythefollowingmodesoftransferthereturnratesareadultusd125peradultroundtripinclusiveofalltaxeschild(4-11years)usd65perchildroundtripinclusiveofalltaxesguestsmustsendarrivalanddepartureflightdetails72hourspriortravelchildpolicychildrenunder12yearswilleatforfreebasedontherulesandmeal-planaccompaniedbyanadultexcludingalcoholicbeveragesmaximum2freekidsperunitpaidmandatorygreentaxofusd6perchildpernightwillbechargedgeneralpoliciespleasepresentthesamecreditcardusedtoguaranteeyourbookingwhencheckinginmakingthepaymentatthehotelpleasenotethatpropertymaycontactthecardholderforverificationpurposesduetosafetyandprivacyconcernstheoperationofunmannedaerialsystemsordronesbyanyofguestsincludingmodelaircraftbyrecreationalusersandhobbyistsisprohibitedguestsarerequiredtoshowaphotoidentificationandcreditcarduponcheck-inpleasenotethatallspecialrequestsaresubjecttoavailabilityandadditionalchargesmayapplyinresponsetocoronavirus(covid-19)additionalsafetyandsanitationmeasuresareineffectatthispropertypleaseinformholidayinnresortkandoomamaldivesinadvanceofyourexpectedarrivaltimeyoucanusethespecialrequestsboxwhenbookingorcontactthepropertydirectlywiththecontactdetailsprovidedinyourconfirmationguestsarerequiredtoshowaphotoidentificationandcreditcarduponcheck-inpleasenotethatallspecialrequestsaresubjecttoavailabilityandadditionalchargesmayapplyadamagedepositofusd100isrequiredonarrivalthat'sabout9172gbpthiswillbecollectedbycreditcardyoushouldbereimbursedwithin7daysofcheck-outyourdepositwillberefundedinfullviacreditcardsubjecttoaninspectionoftheproperty
+mtrString:
+toensurethewellbeingofallourguestsandcolleaguespleasenotethattravelersfromhighriskareasmaybesubjecttoadditionalpcrtestingattheresortsdiscretiontransferdetailspleasenotethatthepropertyisonlyaccessiblebythefollowingmodesoftransferthereturnratesareadultusd125peradultroundtripinclusiveofalltaxeschild(4-11years)usd65perchildroundtripinclusiveofalltaxesguestsmustsendarrivalanddepartureflightdetails72hourspriortravelchildpolicychildrenunder12yearswilleatforfreebasedontherulesandmeal-planaccompaniedbyanadultexcludingalcoholicbeveragesmaximum2freekidsperunitpaidmandatorygreentaxofusd6perchildpernightwillbechargedgeneralpoliciespleasepresentthesamecreditcardusedtoguaranteeyourbookingwhencheckinginmakingthepaymentatthehotelpleasenotethatpropertymaycontactthecardholderforverificationpurposesduetosafetyandprivacyconcernstheoperationofunmannedaerialsystemsordronesbyanyofguestsincludingmodelaircraftbyrecreationalusersandhobbyistsisprohibitedguestsarerequiredtoshowaphotoidentificationandcreditcarduponcheck-inpleasenotethatallspecialrequestsaresubjecttoavailabilityandadditionalchargesmayapplyinresponsetocoronavirus(covid-19)additionalsafetyandsanitationmeasuresareineffectatthispropertypleaseinformholidayinnresortkandoomamaldivesinadvanceofyourexpectedarrivaltimeyoucanusethespecialrequestsboxwhenbookingorcontactthepropertydirectlywiththecontactdetailsprovidedinyourconfirmationguestsarerequiredtoshowaphotoidentificationandcreditcarduponcheck-inpleasenotethatallspecialrequestsaresubjecttoavailabilityandadditionalchargesmayapplyadamagedepositofusd100isrequiredonarrivalthat'sabout368672uahthiswillbecollectedbycreditcardyoushouldbereimbursedwithin7daysofcheck-outyourdepositwillberefundedinfullviacreditcardsubjecttoaninspectionoftheproperty
+
+70. hondaafushi island resort
+Status: SUCCESS
+
+71. hurawalhi island resort
+Status: SUCCESS
+
+72. huvafen fushi
+Status: SUCCESS
+
+73. innahura maldives resort
+Status: SUCCESS
+
+74. intercontinental maldives maamunagau resort  an ihg hotel
+Status: SUCCESS
+
+75. ja manafaru maldives
+Status: SUCCESS
+
+76. joali  maldives
+Status: SUCCESS
+
+77. joali being
+Status: SUCCESS
+
+78. jumeirah maldives  olhahali island
+Status: SUCCESS
+
+79. jw marriott maldives resort &amp; spa
+Status: SUCCESS
+
+80. kagi maldives spa island
+Status: SUCCESS
+
+81. kandima maldives
+Status: SUCCESS
+
+82. kandolhu maldives
+Status: SUCCESS
+
+83. kihaa maldives
+Status: FAIL
+bookingURL: https://www.booking.com/hotel/mv/kihaad-maldives.en-gb.html
+mtrURL: http://31.40.107.188/st_hotel/kihaa-maldives/
+bookingString:
+pleaseseebelowgaladinnerandtransferchargestransferschargesfromtodayuntiloct312022domesticroundtriptransfer-adultusd30000perperson(12yrsold&above)childusd25000perperson(2yrsoldto1199yrsold)andfreeofcharge(199yearsbelow)seaplaneroundtriptransfer-adultusd49900perperson(12yrsold&above)childusd35900perperson(2yrsoldto1199yrsold)andfreeofcharge(199yearsbelow)transferchargesfromnov012022onwardsdomesticroundtriptransfer-adultusd39900perperson(12yrsold&above)childusd29900perperson(2yrsoldto1199yrsold)andfreeofcharge(199yearsbelow)seaplaneroundtriptransfer-adultusd59900perperson(12yrsold&above)childusd35900perperson(2yrsoldto1199yrsold)andfreeofcharge(199yearsbelow)festivesupplements(perperson-compulsory)-galadinnerchristmaseve(dec24)-adultusd25000(12yrsold&above)childusd15000perperson(2yrsoldto1199yrsold)andfreeofcharge(199yearsbelow)newyeareve(dec31)-adultusd30000(12yrsold&above)childusd17500perperson(2yrsoldto1199yrsold)andfreeofcharge(199yearsbelow)inaccordancewithgovernmentguidelinestominimisetransmissionofthecoronavirus(covid-19)thispropertymayrequestadditionaldocumentationfromgueststovalidateidentitytravelitineraryandotherrelevantinformationduringdateswheresuchguidelinesexistinresponsetocoronavirus(covid-19)additionalsafetyandsanitationmeasuresareineffectatthispropertyduetocoronavirus(covid-19)thispropertyistakingstepstohelpprotectthesafetyofguestsandstaffcertainservicesandamenitiesmaybereducedorunavailableasaresultguestsarerequiredtoshowaphotoidentificationandcreditcarduponcheck-inpleasenotethatallspecialrequestsaresubjecttoavailabilityandadditionalchargesmayapplypleaseinformkihaamaldivesinadvanceofyourexpectedarrivaltimeyoucanusethespecialrequestsboxwhenbookingorcontactthepropertydirectlywiththecontactdetailsprovidedinyourconfirmationadamagedepositofusd500isrequiredonarrivalthat'sabout45859gbpthiswillbecollectedasacashpaymentyoushouldbereimbursedoncheck-outyourdepositwillberefundedinfullincashsubjecttoaninspectionoftheproperty
+mtrString:
+pleaseseebelowgaladinnerandtransferchargestransferschargesfromtodayuntiloct312022domesticroundtriptransfer-adultusd30000perperson(12yrsold&above)childusd25000perperson(2yrsoldto1199yrsold)andfreeofcharge(199yearsbelow)seaplaneroundtriptransfer-adultusd49900perperson(12yrsold&above)childusd35900perperson(2yrsoldto1199yrsold)andfreeofcharge(199yearsbelow)transferchargesfromnov012022onwardsdomesticroundtriptransfer-adultusd39900perperson(12yrsold&above)childusd29900perperson(2yrsoldto1199yrsold)andfreeofcharge(199yearsbelow)seaplaneroundtriptransfer-adultusd59900perperson(12yrsold&above)childusd35900perperson(2yrsoldto1199yrsold)andfreeofcharge(199yearsbelow)festivesupplements(perperson-compulsory)-galadinnerchristmaseve(dec24)-adultusd25000(12yrsold&above)childusd15000perperson(2yrsoldto1199yrsold)andfreeofcharge(199yearsbelow)newyeareve(dec31)-adultusd30000(12yrsold&above)childusd17500perperson(2yrsoldto1199yrsold)andfreeofcharge(199yearsbelow)inaccordancewithgovernmentguidelinestominimisetransmissionofthecoronavirus(covid-19)thispropertymayrequestadditionaldocumentationfromgueststovalidateidentitytravelitineraryandotherrelevantinformationduringdateswheresuchguidelinesexistinresponsetocoronavirus(covid-19)additionalsafetyandsanitationmeasuresareineffectatthispropertyduetocoronavirus(covid-19)thispropertyistakingstepstohelpprotectthesafetyofguestsandstaffcertainservicesandamenitiesmaybereducedorunavailableasaresultguestsarerequiredtoshowaphotoidentificationandcreditcarduponcheck-inpleasenotethatallspecialrequestsaresubjecttoavailabilityandadditionalchargesmayapplypleaseinformkihaamaldivesinadvanceofyourexpectedarrivaltimeyoucanusethespecialrequestsboxwhenbookingorcontactthepropertydirectlywiththecontactdetailsprovidedinyourconfirmationadamagedepositofusd500isrequiredonarrivalthat'sabout1843358uahthiswillbecollectedasacashpaymentyoushouldbereimbursedoncheck-outyourdepositwillberefundedinfullincashsubjecttoaninspectionoftheproperty
+
+84. komandoo island resort &amp; spa
+Status: SUCCESS
+
+85. kuda villingili resort maldives
+Status: SUCCESS
+
+86. kudadoo maldives private island – luxury all inclusive
+Status: SUCCESS
+
+87. kudafushi resort &amp; spa
+Status: SUCCESS
+
+88. kuramathi maldives
+Status: SUCCESS
+
+89. kuredu island resort &amp; spa
+Status: SUCCESS
+
+90. kurumba maldives
+Status: SUCCESS
+
+91. le méridien maldives resort &amp; spa
+Status: SUCCESS
+
+92. lily beach resort and spa all inclusive
+Status: SUCCESS
+
+93. lux* south ari atoll resort &amp; villas
+Status: SUCCESS
+
+94. makunudu island
+Status: SUCCESS
+
+95. malahini kuda bandos resort
+Status: SUCCESS
+
+96. medhufushi island resort
+Status: SUCCESS
+
+97. meeru island resort &amp; spa
+Status: SUCCESS
+
+98. mercure maldives kooddoo all-inclusive resort
+Status: SUCCESS
+
+99. milaidhoo island maldives
+Status: SUCCESS
+
+100. mirihi island resort
+Status: SUCCESS
+
+1. nakai dhiggiri resort
+Status: SUCCESS
+
+2. naladhu private island maldives
+Status: SUCCESS
+
+3. nika island resort &amp; spa  maldives
+Status: SUCCESS
+
+4. niyama private islands maldives
+Status: SUCCESS
+
+5. noku maldives
+Status: SUCCESS
+
+6. nova maldives
+Status: SUCCESS
+
+7. oblu nature helengeli-all-inclusive with free transfers
+Status: SUCCESS
+
+8. oblu select sangeli premium all inclusive with free transfers
+Status: SUCCESS
+
+9. one&amp;only reethi rah
+Status: SUCCESS
+
+10. outrigger maldives maafushivaru maldives
+Status: SUCCESS
+
+11. ozen life maadhoo luxury all inclusive
+Status: SUCCESS
+
+12. ozen reserve bolifushi luxury all inclusive
+Status: SUCCESS
+
+13. paradise island resort &amp; spa
+Status: SUCCESS
+
+14. park hyatt maldives hadahaa
+Status: SUCCESS
+
+15. patina maldives  fari islands
+Status: SUCCESS
+
+16. pullman maldives all-inclusive resort
+Status: SUCCESS
+
+17. radisson blu resort maldives
+Status: SUCCESS
+
+18. raffles maldives meradhoo
+Status: SUCCESS
+
+19. rahaa resort
+Status: SUCCESS
+
+20. rasdu view inn
+Status: FAIL
+bookingURL: https://www.booking.com/hotel/mv/rasdu-view-inn.en-gb.html
+mtrURL: http://31.40.107.188/st_hotel/rasdu-view-inn/
+bookingString:
+thispropertywillnotaccommodatehenstagorsimilarpartiesadamagedepositofusd200isrequiredonarrivalthat'sabout18344gbpthiswillbecollectedasacashpaymentyoushouldbereimbursedoncheck-outyourdepositwillberefundedinfullincashsubjecttoaninspectionoftheproperty
+mtrString:
+thispropertywillnotaccommodatehenstagorsimilarpartiesadamagedepositofusd200isrequiredonarrivalthat'sabout737343uahthiswillbecollectedasacashpaymentyoushouldbereimbursedoncheck-outyourdepositwillberefundedinfullincashsubjecttoaninspectionoftheproperty
+
+21. reethi beach resort
+Status: SUCCESS
+
+22. reethi faru  bio luxury resort
+Status: SUCCESS
+
+23. rekidhiye inn
+Status: SUCCESS
+
+24. rihiveli maldives resort
+Status: SUCCESS
+
+25. riu atoll-all inclusive
+Status: SUCCESS
+
+26. riu palace maldivas- all inclusive
+Status: SUCCESS
+
+27. robinson maldives adults only
+Status: SUCCESS
+
+28. robinson noonu all inclusive
+Status: SUCCESS
+
+29. royal island resort at baa atoll biosphere reserve
+Status: SUCCESS
+
+30. safari island
+Status: SUCCESS
+
+31. saii lagoon maldives  curio collection by hilton
+Status: SUCCESS
+
+32. sandies bathala
+Status: SUCCESS
+
+33. sheraton maldives full moon resort &amp; spa with free transfers
+Status: SUCCESS
+
+34. six senses laamu
+Status: SUCCESS
+
+35. siyam world maldives 24-hour premium all-inclusive with free transfer
+Status: SUCCESS
+
+36. soneva fushi
+Status: SUCCESS
+
+37. soneva jani
+Status: SUCCESS
+
+38. south palm resort maldives
+Status: SUCCESS
+
+39. summer island maldives resort
+Status: SUCCESS
+
+40. sun island resort &amp; spa
+Status: SUCCESS
+
+41. sun siyam iru fushi
+Status: SUCCESS
+
+42. sun siyam iruveli premium all inclusive with free transfers
+Status: SUCCESS
+
+43. sun siyam olhuveli
+Status: SUCCESS
+
+44. sun siyam vilu reef
+Status: SUCCESS
+
+45. taj coral reef resort &amp; spa all inclusive with free transfers
+Status: SUCCESS
+
+46. taj exotica resort &amp; spa
+Status: SUCCESS
+
+47. the barefoot eco hotel
+Status: SUCCESS
+
+48. the nautilus maldives
+Status: SUCCESS
+
+49. the residence maldives
+Status: SUCCESS
+
+50. the residence maldives at dhigurah
+Status: SUCCESS
+
+51. the ritz-carlton maldives  fari islands
+Status: SUCCESS
+
+52. the st. regis maldives vommuli resort
+Status: SUCCESS
+
+53. the standard  huruvalhi maldives
+Status: SUCCESS
+
+54. the westin maldives miriandhoo resort
+Status: SUCCESS
+
+55. thulhagiri island resort &amp; spa
+Status: SUCCESS
+
+56. vakkaru maldives
+Status: SUCCESS
+
+57. varu by atmosphere premium all inclusive with free transfers
+Status: SUCCESS
+
+58. velassaru maldives
+Status: SUCCESS
+
+59. veligandu island resort &amp; spa
+Status: SUCCESS
+
+60. vilamendhoo island resort &amp; spa
+Status: SUCCESS
+
+61. w maldives
+Status: SUCCESS
+
+62. waldorf astoria maldives ithaafushi
+Status: SUCCESS
+
+63. you &amp; me maldives
+Status: SUCCESS
+
+SUCCESS count: 62
+FAIL count: 1
+Failed hotels: [20]

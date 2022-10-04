@@ -1,0 +1,424 @@
+1. adaaran club rannalhi
+Status: OK
+2. adaaran prestige vadoo
+Status: OK
+3. adaaran prestige water villas premium all inclusive
+Status: OK
+4. adaaran select huduran fushi premium all inclusive
+Status: OK
+5. adaaran select meedhupparu premium all inclusive
+Status: OK
+6. alila kothaifaru maldives
+Status: OK
+7. amari havodda maldives
+Status: OK
+8. amaya kuda rah
+Status: OK
+9. amilla maldives resort &amp; residences
+Status: OK
+10. anantara dhigu maldives resort
+Status: OK
+11. anantara kihavah maldives villas
+Status: OK
+12. anantara veli maldives resort
+Status: OK
+13. angsana ihuru all inclusive select
+Status: OK
+14. angsana velavaru – all inclusive select
+Status: OK
+15. angsana velavaru in-ocean villas all inclusive select
+Status: OK
+16. atmosphere kanifushi premium all inclusive with free transfers
+Status: OK
+17. ayada maldives
+Status: OK
+18. baglioni resort maldives the leading hotels of the world
+Status: OK
+19. bandos maldives
+Status: OK
+1. banyan tree vabbinfaru
+Status: OK
+2. baros maldives
+Status: OK
+3. biyadhoo island resort
+Status: OK
+4. brennia kottefaru maldives
+Status: OK
+5. canareef resort maldives
+Status: OK
+1. canareef resort maldives
+Status: OK
+2. centara grand island resort &amp; spa
+Status: OK
+3. centara ras fushi resort &amp; spa maldives
+Status: OK
+4. cinnamon dhonveli maldives
+Status: OK
+5. cinnamon hakuraa huraa maldives all inclusive
+Status: OK
+6. cinnamon velifushi maldives
+http://31.40.107.188/st_hotel/cinnamon-velifushi-maldives/
+https://www.booking.com/hotel/mv/cinnamon-velifushi-maldives.en-gb.html
+mtrText: 14001200
+bookingText: 140000001200
+Status: FAIL
+7. coco bodu hithi
+Status: OK
+8. coco palm dhuni kolhu
+Status: OK
+9. coco villa ukulhas
+http://31.40.107.188/st_hotel/coco-villa-ukulhas/
+https://www.booking.com/hotel/mv/coco-villa-alifu-atoll.en-gb.html
+mtrText: 070006001200
+bookingText: 0700000006001200
+Status: FAIL
+10. cocoon maldives all inclusive
+http://31.40.107.188/st_hotel/cocoon-maldives-all-inclusive/
+https://www.booking.com/hotel/mv/cocoon-maldives.en-gb.html
+mtrText: 140012001300
+bookingText: 1400000012001300
+Status: FAIL
+11. como cocoa island
+Status: OK
+12. como maalifushi
+Status: OK
+13. conrad maldives rangali island
+Status: OK
+14. constance halaveli
+Status: OK
+15. constance moofushi maldives all inclusive
+Status: OK
+16. cora cora maldives premium all-inclusive resort
+Status: OK
+17. dhigali maldives a premium all-inclusive resort
+Status: OK
+18. dhigufaru island resort
+Status: OK
+19. diamonds athuruga maldives resort &amp; spa
+Status: OK
+20. diamonds thudufushi maldives resort &amp; spa
+Status: OK
+21. dreamland maldives resort
+http://31.40.107.188/st_hotel/dreamland-maldives-resort/
+https://www.booking.com/hotel/mv/dreamland-the-unique-sea-amp-lake-resor-47-spa.en-gb.html
+mtrText: 140001001200
+bookingText: 1400000001001200
+Status: FAIL
+22. drift thelu veliga retreat
+Status: OK
+23. dusit thani maldives
+Status: OK
+24. ellaidhoo maldives by cinnamon
+Status: OK
+25. embudu village resort
+Status: OK
+1. embudu village resort
+Status: OK
+2. emerald faarufushi resort &amp; spa deluxe all inclusive
+Status: OK
+3. emerald maldives resort &amp; spa-deluxe all inclusive
+http://31.40.107.188/st_hotel/emerald-maldives-resort-spa-deluxe-all-inclusive/
+https://www.booking.com/hotel/mv/emerald-maldives-resort-amp-spa.en-gb.html
+mtrText: 14001200
+bookingText: 140000001200
+Status: FAIL
+4. eriyadu island resort
+Status: OK
+1. fairmont maldives  sirru fen fushi
+http://31.40.107.188/st_hotel/fairmont-maldives-sirru-fen-fushi/
+https://www.booking.com/hotel/mv/sirru-fen-fushi.en-gb.html
+mtrText: 14001200
+bookingText: 1400000000001200
+Status: FAIL
+2. fihalhohi island resort
+Status: OK
+3. filitheyo island resort
+Status: OK
+1. finolhu baa atoll maldives
+Status: OK
+2. fiyavalhu resort maldives
+Status: OK
+3. four seasons resort maldives at kuda huraa
+Status: OK
+4. four seasons resort maldives at landaa giraavaru
+Status: OK
+5. furaveri maldives
+http://31.40.107.188/st_hotel/furaveri-maldives/
+https://www.booking.com/hotel/mv/furaveri-island-resort-amp-spa.en-gb.html
+mtrText: 140005001200
+bookingText: 1400000005001200
+Status: FAIL
+6. fushifaru maldives
+Status: OK
+7. gangehi island resort &amp; spa
+Status: OK
+8. gili lankanfushi maldives
+Status: OK
+9. grand park kodhipparu maldives
+Status: OK
+10. green leaf guest house omadhoo
+Status: OK
+11. hard rock hotel maldives
+Status: OK
+12. heritance aarah-premium all inclusive
+Status: OK
+13. hideaway beach resort &amp; spa
+Status: OK
+14. hilton maldives amingiri resort &amp; spa
+Status: OK
+15. holiday inn resort kandooma maldives
+Status: OK
+16. hondaafushi island resort
+Status: OK
+17. hurawalhi island resort
+Status: OK
+18. huvafen fushi
+Status: OK
+19. innahura maldives resort
+Status: OK
+20. intercontinental maldives maamunagau resort  an ihg hotel
+Status: OK
+21. ja manafaru maldives
+Status: OK
+1. joali  maldives
+http://31.40.107.188/st_hotel/joali-maldives/
+https://www.booking.com/hotel/mv/joali-maldives.en-gb.html
+mtrText: 140006001200
+bookingText: 1400000006001200
+Status: FAIL
+2. joali being
+http://31.40.107.188/st_hotel/joali-being/
+https://www.booking.com/hotel/mv/joali-being-raa-atoll.en-gb.html
+mtrText: 140010001200
+bookingText: 1400000010001200
+Status: FAIL
+3. jumeirah maldives  olhahali island
+Status: OK
+4. jw marriott maldives resort &amp; spa
+Status: OK
+5. kagi maldives spa island
+http://31.40.107.188/st_hotel/kagi-maldives-spa-island/
+https://www.booking.com/hotel/mv/kagi-maldives.en-gb.html
+mtrText: 140006001200
+bookingText: 1400000006001200
+Status: FAIL
+6. kandima maldives
+Status: OK
+1. kandolhu maldives
+Status: OK
+2. kihaa maldives
+Status: OK
+3. komandoo island resort &amp; spa
+Status: OK
+4. kuda villingili resort maldives
+Status: OK
+5. kudadoo maldives private island – luxury all inclusive
+Status: OK
+6. kudafushi resort &amp; spa
+Status: OK
+7. kuramathi maldives
+Status: OK
+8. kuredu island resort &amp; spa
+Status: OK
+9. kurumba maldives
+Status: OK
+10. le méridien maldives resort &amp; spa
+Status: OK
+11. lily beach resort and spa all inclusive
+Status: OK
+12. lux* south ari atoll resort &amp; villas
+Status: OK
+13. makunudu island
+Status: OK
+14. malahini kuda bandos resort
+Status: OK
+1. malahini kuda bandos resort
+Status: OK
+2. medhufushi island resort
+Status: OK
+3. meeru island resort &amp; spa
+Status: OK
+4. mercure maldives kooddoo all-inclusive resort
+Status: OK
+5. milaidhoo island maldives
+Status: OK
+6. mirihi island resort
+Status: OK
+7. movenpick resort kuredhivaru maldives
+http://31.40.107.188/st_hotel/m%d3%a7venpick-resort-kuredhivaru-maldives/
+https://www.booking.com/hotel/mv/movenpick-resort-kuredhivaru-maldives.uk.html
+mtrText: 150022301200
+bookingText: 1500223000001200
+Status: FAIL
+8. nakai dhiggiri resort
+Status: OK
+9. naladhu private island maldives
+Status: OK
+10. nika island resort &amp; spa  maldives
+Status: OK
+11. niyama private islands maldives
+Status: OK
+12. noku maldives
+Status: OK
+13. nova maldives
+http://31.40.107.188/st_hotel/nova-maldives/
+https://www.booking.com/hotel/mv/nova-maldives-vakarufalhi.en-gb.html
+mtrText: 140010001100
+bookingText: 1400000010001100
+Status: FAIL
+14. oblu nature helengeli-all-inclusive with free transfers
+Status: OK
+15. oblu select sangeli premium all inclusive with free transfers
+Status: OK
+16. one&amp;only reethi rah
+Status: OK
+17. outrigger maldives maafushivaru maldives
+Status: OK
+18. ozen life maadhoo luxury all inclusive
+Status: OK
+19. ozen reserve bolifushi luxury all inclusive
+Status: OK
+20. paradise island resort &amp; spa
+Status: OK
+21. park hyatt maldives hadahaa
+Status: OK
+22. patina maldives  fari islands
+Status: OK
+23. pullman maldives all-inclusive resort
+Status: OK
+24. radisson blu resort maldives
+Status: OK
+25. raffles maldives meradhoo
+Status: OK
+26. rahaa resort
+http://31.40.107.188/st_hotel/rahaa-resort/
+https://www.booking.com/hotel/mv/rahaa-resort.en-gb.html
+mtrText: 14001200
+bookingText: 140000001200
+Status: FAIL
+27. rasdu view inn
+Status: OK
+28. reethi beach resort
+http://31.40.107.188/st_hotel/reethi-beach-resort/
+https://www.booking.com/hotel/mv/reethi-beach-resort.en-gb.html
+mtrText: 140004001200
+bookingText: 1400000004001200
+Status: FAIL
+29. reethi faru  bio luxury resort
+Status: OK
+30. rekidhiye inn
+Status: OK
+31. rihiveli maldives resort
+Status: OK
+32. riu atoll-all inclusive
+Status: OK
+33. riu palace maldivas- all inclusive
+Status: OK
+34. robinson maldives adults only
+Status: OK
+35. robinson noonu all inclusive
+Status: OK
+36. royal island resort at baa atoll biosphere reserve
+Status: OK
+37. safari island
+Status: OK
+38. saii lagoon maldives  curio collection by hilton
+Status: OK
+39. sandies bathala
+Status: OK
+40. sheraton maldives full moon resort &amp; spa with free transfers
+Status: OK
+41. six senses laamu
+http://31.40.107.188/st_hotel/six-senses-laamu/
+https://www.booking.com/hotel/mv/six-senses-laamu.en-gb.html
+mtrText: 14001200
+bookingText: 140000001200
+Status: FAIL
+1. six senses laamu
+http://31.40.107.188/st_hotel/six-senses-laamu/
+https://www.booking.com/hotel/mv/six-senses-laamu.en-gb.html
+mtrText: 14001200
+bookingText: 140000001200
+Status: FAIL
+2. siyam world maldives 24-hour premium all-inclusive with free transfer
+Status: OK
+3. soneva fushi
+http://31.40.107.188/st_hotel/soneva-fushi/
+https://www.booking.com/hotel/mv/soneva-fushi.en-gb.html
+mtrText: 140006001200
+bookingText: 1400000006001200
+Status: FAIL
+4. soneva jani
+Status: OK
+5. south palm resort maldives
+Status: OK
+6. summer island maldives resort
+http://31.40.107.188/st_hotel/summer-island-maldives-resort/
+https://www.booking.com/hotel/mv/summer-island-maldives.en-gb.html
+mtrText: 14001200
+bookingText: 140000001200
+Status: FAIL
+7. sun island resort &amp; spa
+Status: OK
+8. sun siyam iru fushi
+Status: OK
+9. sun siyam iruveli premium all inclusive with free transfers
+http://31.40.107.188/st_hotel/sun-siyam-iruveli-premium-all-inclusive-with-free-transfers/
+https://www.booking.com/hotel/mv/sun-aqua-iru-veli.en-gb.html
+mtrText: 140012001230
+bookingText: 1400000012001230
+Status: FAIL
+10. sun siyam olhuveli
+Status: OK
+11. sun siyam vilu reef
+Status: OK
+12. taj coral reef resort &amp; spa all inclusive with free transfers
+http://31.40.107.188/st_hotel/taj-coral-reef-resort-spa-all-inclusive-with-free-transfers/
+https://www.booking.com/hotel/mv/vivanta-by-taj-coral-reef.en-gb.html
+mtrText: 15001100
+bookingText: 150000001100
+Status: FAIL
+13. taj exotica resort &amp; spa
+http://31.40.107.188/st_hotel/taj-exotica-resort-spa/
+https://www.booking.com/hotel/mv/taj-exotica-resort-spa.en-gb.html
+mtrText: 14001200
+bookingText: 140000001200
+Status: FAIL
+14. the barefoot eco hotel
+Status: OK
+15. the nautilus maldives
+Status: OK
+16. the residence maldives
+Status: OK
+17. the residence maldives at dhigurah
+http://31.40.107.188/st_hotel/the-residence-maldives-at-dhigurah/
+https://www.booking.com/hotel/mv/the-residence-maldives-at-dhigurah.en-gb.html
+mtrText: 14001200
+bookingText: 140000001200
+Status: FAIL
+18. the ritz-carlton maldives  fari islands
+Status: OK
+1. the st. regis maldives vommuli resort
+Status: OK
+2. the standard  huruvalhi maldives
+Status: OK
+3. the westin maldives miriandhoo resort
+Status: OK
+4. thulhagiri island resort &amp; spa
+Status: OK
+5. vakkaru maldives
+Status: OK
+6. varu by atmosphere premium all inclusive with free transfers
+Status: OK
+7. velassaru maldives
+Status: OK
+8. veligandu island resort &amp; spa
+Status: OK
+9. vilamendhoo island resort &amp; spa
+Status: OK
+10. w maldives
+Status: OK
+11. waldorf astoria maldives ithaafushi
+Status: OK
+12. you &amp; me maldives
+Status: OK

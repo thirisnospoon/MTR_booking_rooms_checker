@@ -1,0 +1,1255 @@
+1. Adaaran Club Rannalhi
+bookingHotelURL: https://www.booking.com/hotel/mv/adaaran-club-rannalhi.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/adaaran-club-rannalhi/
+mtrRoomsNumber: 2
+bookingRoomsNumber: 2
+Status: SUCCESS
+
+2. Adaaran Prestige Vadoo
+bookingHotelURL: https://www.booking.com/hotel/mv/adaaran-prestige-vadoo.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/adaaran-prestige-vadoo/
+mtrRoomsNumber: 13
+bookingRoomsNumber: 4
+extra rooms found: 9
+booking rooms: ['Sunrise Water Villa with Private Pool  & Jacuzzi', 'Sunset Water Villa with Private Pool  & Jacuzzi', 'Honeymoon Villa with Private Pool  & Jacuzzi', 'Sunset Water Villa with Complimentary Transfer']
+mtr rooms: ['Honeymoon Villa with Private Pool  & Jacuzzi', 'Sunset Water Villa with Private Pool  & Jacuzzi', 'Sunrise Water Villa with Private Pool  & Jacuzzi', 'Honeymoon Villa with Private Pool  & Jacuzzi', 'Sunset Water Villa with Private Pool  & Jacuzzi', 'Sunrise Water Villa with Private Pool  & Jacuzzi', 'Honeymoon Villa with Private Pool  & Jacuzzi', 'Sunset Water Villa with Private Pool  & Jacuzzi', 'Sunrise Water Villa with Private Pool  & Jacuzzi', 'Sunset Water Villa with Complimentary Transfer', 'Honeymoon Villa with Private Pool  & Jacuzzi', 'Sunset Water Villa with Private Pool  & Jacuzzi', 'Sunrise Water Villa with Private Pool  & Jacuzzi']
+status: FAILED
+
+3. Adaaran Prestige Water Villas Premium All Inclusive
+bookingHotelURL: https://www.booking.com/hotel/mv/adaaran-prestige-water-villas.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/adaaran-prestige-water-villas-premium-all-inclusive/
+mtrRoomsNumber: 1
+bookingRoomsNumber: 1
+Status: SUCCESS
+
+4. Adaaran Select Huduran Fushi Premium All Inclusive
+bookingHotelURL: https://www.booking.com/hotel/mv/adaaran-select-hudhuranfushi.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/adaaran-select-huduran-fushi-premium-all-inclusive/
+mtrRoomsNumber: 8
+bookingRoomsNumber: 8
+Status: SUCCESS
+
+5. Adaaran Select Meedhupparu Premium All Inclusive
+bookingHotelURL: https://www.booking.com/hotel/mv/adaaran-select-meedhupparu.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/adaaran-select-meedhupparu-premium-all-inclusive/
+mtrRoomsNumber: 9
+bookingRoomsNumber: 9
+Status: SUCCESS
+
+6. Alila Kothaifaru Maldives
+bookingHotelURL: https://www.booking.com/hotel/mv/alila-kothaifaru-maldives.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/alila-kothaifaru-maldives/
+mtrRoomsNumber: 6
+bookingRoomsNumber: 6
+Status: SUCCESS
+
+7. Amari Havodda Maldives
+bookingHotelURL: https://www.booking.com/hotel/mv/amari-havodda-maldives.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/amari-havodda-maldives/
+mtrRoomsNumber: 12
+bookingRoomsNumber: 8
+extra rooms found: 4
+booking rooms: ['Deluxe Villa', 'Sunset Beach Villa', 'Sunset Beach Pool Villa', 'Overwater Villa', 'Private Pool Villa', 'Overwater Pool Suite', 'Special Offer: Two Nights Beach Villa & Two Nights Overwater Villa', 'Overwater Villa: Just the Two of Us Package']
+mtr rooms: ['Special Offer: Two Nights Beach Villa & Two Nights Overwater Villa', 'Special Offer: Two Nights Beach Villa & Two Nights Overwater Villa', 'Special Offer: Two Nights Beach Villa & Two Nights Overwater Villa', 'Sunset Beach Villa', 'Overwater Villa: Just the Two of Us Package', 'Special Offer: Two Nights Beach Villa & Two Nights Overwater Villa', 'Overwater Pool Suite', 'Private Pool Villa', 'Overwater Villa', 'Sunset Beach Pool Villa', 'Villa — Beach Front', 'Deluxe Villa']
+status: FAILED
+
+8. Amaya Kuda Rah
+bookingHotelURL: https://www.booking.com/hotel/mv/amaya-resorts-spa.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/amaya-kuda-rah/
+mtrRoomsNumber: 12
+bookingRoomsNumber: 6
+extra rooms found: 6
+booking rooms: ['Beach Villa with Private Pool (10% off on Spa, Food & Beverage)', 'Water Villa with Private Pool (10% off on Spa, Food & Beverage)', 'Family Beach Villa with Pool (10% off on Spa, Food & Beverage)', 'Garden Room (10% off on Spa, Food & Beverage)', 'Water Villa Suite with Pool (10% off on Spa, Food & Beverage)', 'Beach Suite with Pool (10% off on Spa, Food & Beverage)']
+mtr rooms: ['Beach Suite with Pool (10% off on Spa, Food & Beverage)', 'Water Villa Suite with Pool (10% off on Spa, Food & Beverage)', 'Garden Room (10% off on Spa, Food & Beverage)', 'Family Beach Villa with Pool (10% off on Spa, Food & Beverage)', 'Water Villa with Private Pool (10% off on Spa, Food & Beverage)', 'Beach Villa with Private Pool (10% off on Spa, Food & Beverage)', 'Beach Suite with Pool (10% off on Spa, Food & Beverage)', 'Water Villa Suite with Pool (10% off on Spa, Food & Beverage)', 'Garden Room (10% off on Spa, Food & Beverage)', 'Family Beach Villa with Pool (10% off on Spa, Food & Beverage)', 'Water Villa with Private Pool (10% off on Spa, Food & Beverage)', 'Beach Villa with Private Pool (10% off on Spa, Food & Beverage)']
+status: FAILED
+
+9. Amilla Maldives Resort &Amp; Residences
+bookingHotelURL: https://www.booking.com/hotel/mv/amilla-fushi.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/amilla-maldives-resort-residences/
+mtrRoomsNumber: 14
+bookingRoomsNumber: 12
+extra rooms found: 2
+booking rooms: ['\t Sunset Water Pool Villa', 'Lagoon Water pool Villa', 'Reef Water Pool Villa', 'Beach Pool Villa', 'Beach Pool Villa 2 Bedrooms', '\t Treetop Pool Villa', 'Beach Residence 4 Bedrooms', 'Lagoon Water Pool Villa 2 Bedrooms', 'Family Suite', 'The Great Beach Residence 8 Bedrooms', 'Reef Water Pool Villa with Complimentary Transfers', 'Reef Water Villa with Free Upgrade to Halfboard and 50% DISCOUNT  on Transfers ']
+mtr rooms: ['Treetop Pool Villa', 'Sunset Water Pool Villa', 'Reef Water Villa with Free Upgrade to Halfboard and 50% DISCOUNT  on Transfers', 'Reef Water Pool Villa with Complimentary Transfers', 'The Great Beach Residence 8 Bedrooms', 'Family Suite', 'Lagoon Water Pool Villa 2 Bedrooms', 'Beach Residence 4 Bedrooms', 'Treetop Pool Villa', 'Beach Pool Villa 2 Bedrooms', 'Beach Pool Villa', 'Reef Water Pool Villa', 'Lagoon Water pool Villa', 'Sunset Water Pool Villa']
+status: FAILED
+
+10. Anantara Dhigu Maldives Resort
+bookingHotelURL: https://www.booking.com/hotel/mv/anantara-dhigu-maldives.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/anantara-dhigu-maldives-resort/
+mtrRoomsNumber: 18
+bookingRoomsNumber: 18
+Status: SUCCESS
+
+11. Anantara Kihavah Maldives Villas
+bookingHotelURL: https://www.booking.com/hotel/mv/anantara-kihavah-villas-maldives.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/anantara-kihavah-maldives-villas/
+mtrRoomsNumber: 10
+bookingRoomsNumber: 10
+Status: SUCCESS
+
+12. Anantara Veli Maldives Resort
+bookingHotelURL: https://www.booking.com/hotel/mv/anantara-veli-maldives.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/anantara-veli-maldives-resort/
+mtrRoomsNumber: 11
+bookingRoomsNumber: 11
+Status: SUCCESS
+
+13. Angsana Ihuru All Inclusive Select
+bookingHotelURL: https://www.booking.com/hotel/mv/angsana-ihuru-all-inclusive-select.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/angsana-ihuru-all-inclusive-select/
+mtrRoomsNumber: 2
+bookingRoomsNumber: 2
+Status: SUCCESS
+
+14. Angsana Velavaru Â€“ All Inclusive Select
+bookingHotelURL: https://www.booking.com/hotel/mv/angsana-velavaru-all-inclusive-select.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/angsana-velavaru-all-inclusive-select/
+mtrRoomsNumber: 8
+bookingRoomsNumber: 8
+Status: SUCCESS
+
+15. Angsana Velavaru In-Ocean Villas All Inclusive Select
+bookingHotelURL: https://www.booking.com/hotel/mv/angsana-velavaru-in-ocean-villas-all-inclusive-select.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/angsana-velavaru-in-ocean-villas-all-inclusive-select/
+mtrRoomsNumber: 4
+bookingRoomsNumber: 4
+Status: SUCCESS
+
+16. Atmosphere Kanifushi Premium All Inclusive With Free Transfers
+bookingHotelURL: https://www.booking.com/hotel/mv/atmosphere-kanifushi-maldives.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/atmosphere-kanifushi-premium-all-inclusive-with-free-transfers/
+mtrRoomsNumber: 7
+bookingRoomsNumber: 7
+Status: SUCCESS
+
+17. Ayada Maldives
+bookingHotelURL: https://www.booking.com/hotel/mv/ayada-maldives.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/ayada-maldives/
+mtrRoomsNumber: 9
+bookingRoomsNumber: 9
+Status: SUCCESS
+
+18. Baglioni Resort Maldives The Leading Hotels Of The World
+bookingHotelURL: https://www.booking.com/hotel/mv/baglioni-restort-maldives.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/baglioni-resort-maldives-the-leading-hotels-of-the-world/
+mtrRoomsNumber: 10
+bookingRoomsNumber: 10
+Status: SUCCESS
+
+19. Bandos Maldives
+bookingHotelURL: https://www.booking.com/hotel/mv/bandos-island-resort-spa.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/bandos-maldives/
+mtrRoomsNumber: 10
+bookingRoomsNumber: 10
+Status: SUCCESS
+
+20. Banyan Tree Vabbinfaru
+bookingHotelURL: https://www.booking.com/hotel/mv/banyan-tree-vabbinfaru.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/banyan-tree-vabbinfaru/
+mtrRoomsNumber: 4
+bookingRoomsNumber: 3
+extra rooms found: 1
+booking rooms: ['Oceanview Villa with Private Pool', 'Beachfront Pool Villa with Private Pool', 'Spa Villa with Private Pool & Unlimited Spa Massages']
+mtr rooms: ['Spa Villa with Private Pool & Unlimited Spa Massages', 'Spa Villa with Private Pool & Unlimited Spa Massages', 'Beachfront Pool Villa with Private Pool', 'Oceanview Villa with Private Pool']
+status: FAILED
+
+21. Baros Maldives
+bookingHotelURL: https://www.booking.com/hotel/mv/baros-maldives.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/baros-maldives/
+mtrRoomsNumber: 7
+bookingRoomsNumber: 7
+Status: SUCCESS
+
+22. Biyadhoo Island Resort
+bookingHotelURL: https://www.booking.com/hotel/mv/biyadhoo-island-resort.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/biyadhoo-island-resort/
+mtrRoomsNumber: 1
+bookingRoomsNumber: 1
+Status: SUCCESS
+
+23. Brennia Kottefaru Maldives
+bookingHotelURL: https://www.booking.com/hotel/mv/brennia-kottefaru.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/brennia-kottefaru-maldives/
+mtrRoomsNumber: 6
+bookingRoomsNumber: 6
+Status: SUCCESS
+
+24. Canareef Resort Maldives
+bookingHotelURL: https://www.booking.com/hotel/mv/canareef-resort-maldives.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/canareef-resort-maldives/
+mtrRoomsNumber: 3
+bookingRoomsNumber: 3
+Status: SUCCESS
+
+25. Centara Grand Island Resort &Amp; Spa
+bookingHotelURL: https://www.booking.com/hotel/mv/centara-grand-island-resort-spa-maldives.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/centara-grand-island-resort-spa/
+mtrRoomsNumber: 6
+bookingRoomsNumber: 6
+Status: SUCCESS
+
+26. Centara Ras Fushi Resort &Amp; Spa Maldives
+bookingHotelURL: https://www.booking.com/hotel/mv/centara-ras-fushi-resort-amp-spa-maldives.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/centara-ras-fushi-resort-spa-maldives/
+mtrRoomsNumber: 10
+bookingRoomsNumber: 10
+Status: SUCCESS
+
+27. Cinnamon Dhonveli Maldives
+bookingHotelURL: https://www.booking.com/hotel/mv/chaaya-island-dhonveli.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/cinnamon-dhonveli-maldives/
+mtrRoomsNumber: 14
+bookingRoomsNumber: 7
+extra rooms found: 7
+booking rooms: ['Over Water Suite with FREE meal upgrades for stays between 25th September & 4th October 2022', 'Beach Bungalow with FREE meal upgrades for stays between 25th September & 4th October 2022', 'Water Bungalow with FREE meal upgrades for stays between 25th September & 4th October 2022', 'Duplex Garden Bungalow with FREE meal upgrades for stays between 25th September & 4th October 2022', 'Superior Room – ocean View with FREE meal upgrades for stays between 25th September & 4th October 2022', 'Junior Beach Suite with FREE meal upgrades for stays between 25th September & 4th October 2022', 'Beach Suite with Pool - FREE meal upgrades for stays between 25th September & 4th October 2022']
+mtr rooms: ['Beach Suite with Pool — FREE meal upgrades for stays between 25th September & 4th October 2022', 'Junior Beach Suite with FREE meal upgrades for stays between 25th September & 4th October 2022', 'Superior Room – ocean View with FREE meal upgrades for stays between 25th September & 4th October 2022', 'Duplex Garden Bungalow with FREE meal upgrades for stays between 25th September & 4th October 2022', 'Water Bungalow with FREE meal upgrades for stays between 25th September & 4th October 2022', 'Beach Bungalow with FREE meal upgrades for stays between 25th September & 4th October 2022', 'Over Water Suite with FREE meal upgrades for stays between 25th September & 4th October 2022', 'Beach Suite with Pool — FREE meal upgrades for stays between 25th September & 4th October 2022', 'Junior Beach Suite with FREE meal upgrades for stays between 25th September & 4th October 2022', 'Superior Room – ocean View with FREE meal upgrades for stays between 25th September & 4th October 2022', 'Duplex Garden Bungalow with FREE meal upgrades for stays between 25th September & 4th October 2022', 'Water Bungalow with FREE meal upgrades for stays between 25th September & 4th October 2022', 'Beach Bungalow with FREE meal upgrades for stays between 25th September & 4th October 2022', 'Over Water Suite with FREE meal upgrades for stays between 25th September & 4th October 2022']
+status: FAILED
+
+28. Cinnamon Hakuraa Huraa Maldives All Inclusive
+bookingHotelURL: https://www.booking.com/hotel/mv/chaaya-lagoon-hakuraa-huraa.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/cinnamon-hakuraa-huraa-maldives-all-inclusive/
+mtrRoomsNumber: 5
+bookingRoomsNumber: 5
+Status: SUCCESS
+
+29. Cinnamon Velifushi Maldives
+bookingHotelURL: https://www.booking.com/hotel/mv/cinnamon-velifushi-maldives.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/cinnamon-velifushi-maldives/
+mtrRoomsNumber: 5
+bookingRoomsNumber: 5
+Status: SUCCESS
+
+30. Coco Bodu Hithi
+bookingHotelURL: https://www.booking.com/hotel/mv/coco-palm-bodu-hithi.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/coco-bodu-hithi/
+mtrRoomsNumber: 4
+bookingRoomsNumber: 4
+Status: SUCCESS
+
+31. Coco Palm Dhuni Kolhu
+bookingHotelURL: https://www.booking.com/hotel/mv/coco-palm-dhuni-kolhu.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/coco-palm-dhuni-kolhu/
+mtrRoomsNumber: 4
+bookingRoomsNumber: 4
+Status: SUCCESS
+
+32. Coco Villa Ukulhas
+bookingHotelURL: https://www.booking.com/hotel/mv/coco-villa-alifu-atoll.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/coco-villa-ukulhas/
+mtrRoomsNumber: 3
+bookingRoomsNumber: 0
+extra rooms found: 3
+booking rooms: []
+mtr rooms: ['Deluxe Double Room', '4-Bed Mixed Dormitory Room', 'Deluxe Double Room with Extra Bed']
+status: FAILED
+
+33. Cocoon Maldives All Inclusive
+bookingHotelURL: https://www.booking.com/hotel/mv/cocoon-maldives.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/cocoon-maldives-all-inclusive/
+mtrRoomsNumber: 12
+bookingRoomsNumber: 9
+extra rooms found: 3
+booking rooms: ['Beach Villa', 'Family Beach Villa', 'Beach Suite', 'Beach Suite Pool ', 'Lagoon Over Water Villa ', 'Lagoon Over Water Suite', ' Two-Bedroom Suite with Private Pool ', 'Lagoon Suite with Private Pool ', 'Two Nights Beach Villa And Two Nights Lagoon Over Water Villa']
+mtr rooms: ['Two-Bedroom Suite with Private Pool', 'Two-Bedroom Suite with Private Pool', 'Two-Bedroom Suite with Private Pool', 'Two Nights Beach Villa And Two Nights Lagoon Over Water Villa', 'Lagoon Suite with Private Pool', 'Two-Bedroom Suite with Private Pool', 'Lagoon Over Water Suite', 'Lagoon Over Water Villa', 'Beach Suite Pool', 'Beach Suite', 'Family Beach Villa', 'Beach Villa']
+status: FAILED
+
+34. Como Cocoa Island
+bookingHotelURL: https://www.booking.com/hotel/mv/cocoa-island.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/como-cocoa-island/
+mtrRoomsNumber: 7
+bookingRoomsNumber: 6
+extra rooms found: 1
+booking rooms: ['Dhoni Water Villa', 'Loft Water Villa', 'One-Bedroom Overwater Villa', 'Dhoni Loft Water Villa', 'Two-Bedroom COMO Sunrise Villa', ' Three-Bedroom COMO Sunset Villa']
+mtr rooms: ['Three-Bedroom COMO Sunset Villa', 'Three-Bedroom COMO Sunset Villa', 'Two-Bedroom COMO Sunrise Villa', 'Dhoni Loft Water Villa', 'One-Bedroom Overwater Villa', 'Loft Water Villa', 'Dhoni Water Villa']
+status: FAILED
+
+35. Como Maalifushi
+bookingHotelURL: https://www.booking.com/hotel/mv/maalifushi-by-como.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/como-maalifushi/
+mtrRoomsNumber: 5
+bookingRoomsNumber: 5
+Status: SUCCESS
+
+36. Conrad Maldives Rangali Island
+bookingHotelURL: https://www.booking.com/hotel/mv/conrad-maldives-rangali-island.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/conrad-maldives-rangali-island/
+mtrRoomsNumber: 14
+bookingRoomsNumber: 14
+Status: SUCCESS
+
+37. Constance Halaveli
+bookingHotelURL: https://www.booking.com/hotel/mv/constance-halaveli-resort.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/constance-halaveli/
+mtrRoomsNumber: 5
+bookingRoomsNumber: 5
+Status: SUCCESS
+
+38. Constance Moofushi Maldives All Inclusive
+bookingHotelURL: https://www.booking.com/hotel/mv/constance-moofushi-resort.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/constance-moofushi-maldives-all-inclusive/
+mtrRoomsNumber: 4
+bookingRoomsNumber: 4
+Status: SUCCESS
+
+39. Cora Cora Maldives Premium All-Inclusive Resort
+bookingHotelURL: https://www.booking.com/hotel/mv/cora-cora-maldives-premium-all-inclusive-resort.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/cora-cora-maldives-premium-all-inclusive-resort/
+mtrRoomsNumber: 10
+bookingRoomsNumber: 10
+Status: SUCCESS
+
+40. Dhigali Maldives A Premium All-Inclusive Resort
+bookingHotelURL: https://www.booking.com/hotel/mv/dhigali-maldives.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/dhigali-maldives-a-premium-all-inclusive-resort/
+mtrRoomsNumber: 53
+bookingRoomsNumber: 35
+extra rooms found: 18
+booking rooms: ['Beach Bungalow', 'Water Villa', 'Deluxe Beach Bungalow', 'Beach Villa', 'Beach Villa with Pool', 'Lagoon Villa with Pool', 'Beach Suite with Pool', 'Dhigali Suite (Two-Bedroom Suite)', 'Deluxe Beach Bungalow', 'Beach Villa (2 Adults + 1 Child)', 'Beach Villa (2 Adults + 2 Children)', 'Beach Villa', 'Deluxe Beach Bungalow', 'Beach Villa (3 Adults + 1 Child)', 'Beach Villa', 'Water Villa', 'Water Villa', 'Beach Villa with Pool', 'Beach Villa with Pool (2 Adults + 2 Children)', 'Beach Villa with Pool (3 Adults + 1 Child)', 'Beach Villa with Pool (2 Adults + 1 Child)', 'Beach Villa with Pool', 'Lagoon Villa with Pool', 'Lagoon Villa with Pool', 'Beach Suite with Pool (2 Adults + 1 Child)', 'Beach Suite with Pool (2 Adults + 2 Children)', 'Beach Suite with Pool', 'Beach Suite with Pool (3 Adults + 1 Child)', 'Beach Suite with Pool', 'Beach Bungalow - With free PCR & 50% off Transfer', 'Deluxe Beach Bungalow - With free PCR & 50% off Transfer', 'Beach Villa - With free PCR & 50% off Transfer', 'Beach Villa with Pool - With free PCR & 50% off Transfer ', 'Water Villa - With free PCR & 50% off Transfer ', 'Lagoon Villa with Pool - With free PCR & 50% off Transfer ']
+mtr rooms: ['Lagoon Villa with Pool — With free PCR & 50% off Transfer', 'Water Villa — With free PCR & 50% off Transfer', 'Beach Villa with Pool — With free PCR & 50% off Transfer', 'Beach Villa — With free PCR & 50% off Transfer', 'Deluxe Beach Bungalow — With free PCR & 50% off Transfer', 'Beach Bungalow — With free PCR & 50% off Transfer', 'Lagoon Villa with Pool — With free PCR & 50% off Transfer', 'Water Villa — With free PCR & 50% off Transfer', 'Beach Villa with Pool — With free PCR & 50% off Transfer', 'Beach Villa — With free PCR & 50% off Transfer', 'Deluxe Beach Bungalow — With free PCR & 50% off Transfer', 'Beach Bungalow — With free PCR & 50% off Transfer', 'Lagoon Villa with Pool — With free PCR & 50% off Transfer', 'Water Villa — With free PCR & 50% off Transfer', 'Beach Villa with Pool — With free PCR & 50% off Transfer', 'Beach Villa — With free PCR & 50% off Transfer', 'Deluxe Beach Bungalow — With free PCR & 50% off Transfer', 'Beach Bungalow — With free PCR & 50% off Transfer', 'Lagoon Villa with Pool — With free PCR & 50% off Transfer', 'Water Villa — With free PCR & 50% off Transfer', 'Beach Villa with Pool — With free PCR & 50% off Transfer', 'Beach Villa — With free PCR & 50% off Transfer', 'Deluxe Beach Bungalow — With free PCR & 50% off Transfer', 'Beach Bungalow — With free PCR & 50% off Transfer', 'Beach Suite with Pool', 'Beach Suite with Pool (3 Adults + 1 Child)', 'Beach Suite with Pool', 'Beach Suite with Pool (2 Adults + 2 Children)', 'Beach Suite with Pool (2 Adults + 1 Child)', 'Lagoon Villa with Pool', 'Lagoon Villa with Pool', 'Beach Villa with Pool', 'Beach Villa with Pool (2 Adults + 1 Child)', 'Beach Villa with Pool (3 Adults + 1 Child)', 'Beach Villa with Pool (2 Adults + 2 Children)', 'Beach Villa with Pool', 'Water Villa', 'Water Villa', 'Beach Villa', 'Beach Villa (3 Adults + 1 Child)', 'Deluxe Beach Bungalow', 'Beach Villa', 'Beach Villa (2 Adults + 2 Children)', 'Beach Villa (2 Adults + 1 Child)', 'Deluxe Beach Bungalow', 'Dhigali Suite (Two-Bedroom Suite)', 'Beach Suite with Pool', 'Lagoon Villa with Pool', 'Beach Villa with Pool', 'Beach Villa', 'Deluxe Beach Bungalow', 'Water Villa', 'Beach Bungalow']
+status: FAILED
+
+41. Dhigufaru Island Resort
+bookingHotelURL: https://www.booking.com/hotel/mv/dhigufaru-island-resort.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/dhigufaru-island-resort/
+mtrRoomsNumber: 8
+bookingRoomsNumber: 8
+Status: SUCCESS
+
+42. Diamonds Athuruga Maldives Resort &Amp; Spa
+bookingHotelURL: https://www.booking.com/hotel/mv/diamonds-athuruga-beach-amp-water-villas.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/diamonds-athuruga-maldives-resort-spa/
+mtrRoomsNumber: 3
+bookingRoomsNumber: 4
+rooms missed: 1
+Booking rooms: ['Bungalow - Beach Front', 'One-Bedroom Overwater Villa', 'Bungalow - Beach Front', 'Junior Suite with Sea View']
+mtr rooms: ['Junior Suite with Sea View', 'One-Bedroom Overwater Villa', 'Bungalow — Beach Front']
+status: FAILED
+
+43. Diamonds Thudufushi Maldives Resort &Amp; Spa
+bookingHotelURL: https://www.booking.com/hotel/mv/diamonds-thudufushi-beach-amp-water-villas.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/diamonds-thudufushi-maldives-resort-spa/
+mtrRoomsNumber: 4
+bookingRoomsNumber: 4
+Status: SUCCESS
+
+44. Dreamland Maldives Resort
+bookingHotelURL: https://www.booking.com/hotel/mv/dreamland-the-unique-sea-amp-lake-resor-47-spa.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/dreamland-maldives-resort/
+mtrRoomsNumber: 2
+bookingRoomsNumber: 2
+Status: SUCCESS
+
+45. Drift Thelu Veliga Retreat
+bookingHotelURL: https://www.booking.com/hotel/mv/drift-thelu-veliga-retreat.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/drift-thelu-veliga-retreat/
+mtrRoomsNumber: 5
+bookingRoomsNumber: 2
+extra rooms found: 3
+booking rooms: ['Beach Villa with 20% off on SPA ', ' Water Villa with 20% off on SPA']
+mtr rooms: ['Water Villa with 20% off on SPA', 'Water Villa with 20% off on SPA', 'Water Villa with 20% off on SPA', 'Water Villa with 20% off on SPA', 'Beach Villa with 20% off on SPA']
+status: FAILED
+
+46. Dusit Thani Maldives
+bookingHotelURL: https://www.booking.com/hotel/mv/dusit-thani-maldives.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/dusit-thani-maldives/
+mtrRoomsNumber: 8
+bookingRoomsNumber: 8
+Status: SUCCESS
+
+47. Ellaidhoo Maldives By Cinnamon
+bookingHotelURL: https://www.booking.com/hotel/mv/chaaya-reef-ellaidhoo.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/ellaidhoo-maldives-by-cinnamon/
+mtrRoomsNumber: 5
+bookingRoomsNumber: 5
+Status: SUCCESS
+
+48. Embudu Village Resort
+bookingHotelURL: https://www.booking.com/hotel/mv/embudu-village-south-male-atoll.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/embudu-village-resort/
+mtrRoomsNumber: 2
+bookingRoomsNumber: 2
+Status: SUCCESS
+
+49. Emerald Faarufushi Resort &Amp; Spa Deluxe All Inclusive
+bookingHotelURL: https://www.booking.com/hotel/mv/faarufushi-maldives.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/emerald-faarufushi-resort-spa-deluxe-all-inclusive/
+mtrRoomsNumber: 6
+bookingRoomsNumber: 6
+Status: SUCCESS
+
+50. Emerald Maldives Resort &Amp; Spa-Deluxe All Inclusive
+bookingHotelURL: https://www.booking.com/hotel/mv/emerald-maldives-resort-amp-spa.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/emerald-maldives-resort-spa-deluxe-all-inclusive/
+mtrRoomsNumber: 12
+bookingRoomsNumber: 12
+Status: SUCCESS
+
+51. Eriyadu Island Resort
+bookingHotelURL: https://www.booking.com/hotel/mv/eriyadu-island-resort-and-spa.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/eriyadu-island-resort/
+mtrRoomsNumber: 2
+bookingRoomsNumber: 2
+Status: SUCCESS
+
+52. Fairmont Maldives  Sirru Fen Fushi
+bookingHotelURL: https://www.booking.com/hotel/mv/sirru-fen-fushi.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/fairmont-maldives-sirru-fen-fushi/
+mtrRoomsNumber: 13
+bookingRoomsNumber: 14
+rooms missed: 1
+Booking rooms: ['Beach Sunrise Villa with Private Pool', 'Beach Sunset Villa with Private Pool', 'Deluxe Beach Sunrise Villa with Private Pool', 'Deluxe Beach Sunset Villa with Private Pool', 'Water Sunrise Villa with Private Pool', 'Grand Water Sunset Villa with Private Pool', 'Luxury Tented Villa with Private Pool', 'Two Bedroom Water Sunrise Villa with Private Pool', 'Two Bedroom Beach Sunset Villa with Private Pool', 'Three Bedroom Water Sunset Villa with Private Pool', 'Three Bedroom Beach Sunset Villa with Private Pool', 'Beach Sunrise Villa with Private Pool with Free Transfers ', 'Water Sunrise Villa with Pool with Free Transfers ', 'Two Bedroom Water Sunrise Villa with Private Pool']
+mtr rooms: ['Water Sunrise Villa with Pool with Free Transfers', 'Beach Sunrise Villa with Private Pool with Free Transfers', 'Three Bedroom Beach Sunset Villa with Private Pool', 'Three Bedroom Water Sunset Villa with Private Pool', 'Two Bedroom Beach Sunset Villa with Private Pool', 'Two Bedroom Water Sunrise Villa with Private Pool', 'Luxury Tented Villa with Private Pool', 'Grand Water Sunset Villa with Private Pool', 'Water Sunrise Villa with Private Pool', 'Deluxe Beach Sunset Villa with Private Pool', 'Deluxe Beach Sunrise Villa with Private Pool', 'Beach Sunset Villa with Private Pool', 'Beach Sunrise Villa with Private Pool']
+status: FAILED
+
+53. Fihalhohi Island Resort
+bookingHotelURL: https://www.booking.com/hotel/mv/fihalhohi-island-resort.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/fihalhohi-island-resort/
+mtrRoomsNumber: 3
+bookingRoomsNumber: 3
+Status: SUCCESS
+
+54. Filitheyo Island Resort
+bookingHotelURL: https://www.booking.com/hotel/mv/filitheyo-island-resort.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/filitheyo-island-resort/
+mtrRoomsNumber: 4
+bookingRoomsNumber: 4
+Status: SUCCESS
+
+55. Finolhu Baa Atoll Maldives
+bookingHotelURL: https://www.booking.com/hotel/mv/finolhu.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/finolhu-baa-atoll-maldives/
+mtrRoomsNumber: 8
+bookingRoomsNumber: 8
+Status: SUCCESS
+
+56. Fiyavalhu Resort Maldives
+bookingHotelURL: https://www.booking.com/hotel/mv/fiyavalhu-maldives.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/fiyavalhu-resort-maldives/
+mtrRoomsNumber: 6
+bookingRoomsNumber: 6
+Status: SUCCESS
+
+57. Four Seasons Resort Maldives At Kuda Huraa
+bookingHotelURL: https://www.booking.com/hotel/mv/four-seasons-resort-maldives-at-kuda-huraa.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/four-seasons-resort-maldives-at-kuda-huraa/
+mtrRoomsNumber: 13
+bookingRoomsNumber: 13
+Status: SUCCESS
+
+58. Four Seasons Resort Maldives At Landaa Giraavaru
+bookingHotelURL: https://www.booking.com/hotel/mv/four-seasons-resort-maldives-at-landaa-giraavaru.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/four-seasons-resort-maldives-at-landaa-giraavaru/
+mtrRoomsNumber: 14
+bookingRoomsNumber: 14
+Status: SUCCESS
+
+59. Furaveri Maldives
+bookingHotelURL: https://www.booking.com/hotel/mv/furaveri-island-resort-amp-spa.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/furaveri-maldives/
+mtrRoomsNumber: 11
+bookingRoomsNumber: 11
+Status: SUCCESS
+
+60. Fushifaru Maldives
+bookingHotelURL: https://www.booking.com/hotel/mv/fushifaru-maldives.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/fushifaru-maldives/
+mtrRoomsNumber: 9
+bookingRoomsNumber: 9
+Status: SUCCESS
+
+61. Gangehi Island Resort &Amp; Spa
+bookingHotelURL: https://www.booking.com/hotel/mv/gangehi-island-resort.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/gangehi-island-resort-spa/
+mtrRoomsNumber: 5
+bookingRoomsNumber: 5
+Status: SUCCESS
+
+62. Gili Lankanfushi Maldives
+bookingHotelURL: https://www.booking.com/hotel/mv/gili-lankanfushi-maldives.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/gili-lankanfushi-maldives/
+mtrRoomsNumber: 11
+bookingRoomsNumber: 11
+Status: SUCCESS
+
+63. Grand Park Kodhipparu Maldives
+bookingHotelURL: https://www.booking.com/hotel/mv/grand-park-kodhipparu-maldives.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/grand-park-kodhipparu-maldives/
+mtrRoomsNumber: 6
+bookingRoomsNumber: 6
+Status: SUCCESS
+
+64. Green Leaf Guest House Omadhoo
+bookingHotelURL: https://www.booking.com/hotel/mv/green-leaf-omadhoo.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/green-leaf-guest-house-omadhoo/
+mtrRoomsNumber: 2
+bookingRoomsNumber: 2
+Status: SUCCESS
+
+65. Hard Rock Hotel Maldives
+bookingHotelURL: https://www.booking.com/hotel/mv/hard-rock-maldives.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/hard-rock-hotel-maldives/
+mtrRoomsNumber: 13
+bookingRoomsNumber: 13
+Status: SUCCESS
+
+66. Heritance Aarah-Premium All Inclusive
+bookingHotelURL: https://www.booking.com/hotel/mv/heritance-aarah-raa-atoll.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/heritance-aarah-premium-all-inclusive/
+mtrRoomsNumber: 8
+bookingRoomsNumber: 8
+Status: SUCCESS
+
+67. Hideaway Beach Resort &Amp; Spa
+bookingHotelURL: https://www.booking.com/hotel/mv/island-hideaway-resort-spa-marina.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/hideaway-beach-resort-spa/
+mtrRoomsNumber: 11
+bookingRoomsNumber: 11
+Status: SUCCESS
+
+68. Hilton Maldives Amingiri Resort &Amp; Spa
+bookingHotelURL: https://www.booking.com/hotel/mv/hilton-maldives-amingiri-resort-spa.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/hilton-maldives-amingiri-resort-spa/
+mtrRoomsNumber: 5
+bookingRoomsNumber: 5
+Status: SUCCESS
+
+69. Holiday Inn Resort Kandooma Maldives
+bookingHotelURL: https://www.booking.com/hotel/mv/holiday-inn-resort-kandooma-maldives.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/holiday-inn-resort-kandooma-maldives/
+mtrRoomsNumber: 15
+bookingRoomsNumber: 14
+extra rooms found: 1
+booking rooms: ['Overwater Villa with Sea View', 'Garden View Beach house', 'Overwater Villa with King and Twin Beds', 'Resort Villa', 'Suite', 'Two-Bedroom Beach House with King and Twin Beds', 'Two-Bedroom Family Beach House with Sea View', 'Sleeping Room', 'King Villa with Ocean View', 'Garden View Villa', ' Garden View  Villa ', 'Beach House with Ocean View', 'Villa with Beach View', 'Three-Bedroom Beachfront Villa with One King and Two Twin Beds']
+mtr rooms: ['Garden View  Villa', 'Three-Bedroom Beachfront Villa with One King and Two Twin Beds', 'Villa with Beach View', 'Beach House with Ocean View', 'Garden View  Villa', 'Garden View Villa', 'King Villa with Ocean View', 'Sleeping Room', 'Two-Bedroom Family Beach House with Sea View', 'Two-Bedroom Beach House with King and Twin Beds', 'Suite', 'Resort Villa', 'Overwater Villa with King and Twin Beds', 'Garden View Beach house', 'Overwater Villa with Sea View']
+status: FAILED
+
+70. Hondaafushi Island Resort
+bookingHotelURL: https://www.booking.com/hotel/mv/hondaafushi-island-resort.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/hondaafushi-island-resort/
+mtrRoomsNumber: 2
+bookingRoomsNumber: 2
+Status: SUCCESS
+
+71. Hurawalhi Island Resort
+bookingHotelURL: https://www.booking.com/hotel/mv/hurawalhi-island-resort-amp-spa.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/hurawalhi-island-resort/
+mtrRoomsNumber: 5
+bookingRoomsNumber: 5
+Status: SUCCESS
+
+72. Huvafen Fushi
+bookingHotelURL: https://www.booking.com/hotel/mv/huvafen-fushi.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/huvafen-fushi/
+mtrRoomsNumber: 7
+bookingRoomsNumber: 7
+Status: SUCCESS
+
+73. Innahura Maldives Resort
+bookingHotelURL: https://www.booking.com/hotel/mv/innahura-maldives-resort.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/innahura-maldives-resort/
+mtrRoomsNumber: 3
+bookingRoomsNumber: 3
+Status: SUCCESS
+
+74. Intercontinental Maldives Maamunagau Resort  An Ihg Hotel
+bookingHotelURL: https://www.booking.com/hotel/mv/intercontinental-hotels-maldives-maamunagau-resort.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/intercontinental-maldives-maamunagau-resort-an-ihg-hotel/
+mtrRoomsNumber: 16
+bookingRoomsNumber: 15
+extra rooms found: 1
+booking rooms: ['Beach Pool Villa with Club InterContinental Benefits', 'Overwater Pool Villa with Club InterContinental Benefits', 'Sunset Overwater Pool Villa with Club InterContinental Benefits', ' One Bedroom Lagoon Pool Villa with Club InterContinental benefits ', 'Sunset One Bedroom Lagoon Pool Villa with Club InterContinental benefits ', 'One Bedroom Beach Pool Villa with Club InterContinental benefits', 'Family Beach Pool Villa with Club InterContinental Benefits', 'Two-Bedroom Family Lagoon Villa with Club InterContinental Benefits', 'Two-Bedroom Family Beach Pool Villa with Club InterContinental Benefits', 'Two-Bedroom Overwater Pool Villa with Club InterContinental Benefits', 'Two-Bedroom Beachfront Pool Residence', 'Three-Bedroom Overwater Residence', 'Three-Bedroom Lagoon Residence', 'Three-Bedroom Royal Residence - Beachfront', 'Overwater Pool Villa ']
+mtr rooms: ['One Bedroom Lagoon Pool Villa with Club InterContinental benefits', 'Overwater Pool Villa', 'Three-Bedroom Royal Residence — Beachfront', 'Three-Bedroom Lagoon Residence', 'Three-Bedroom Overwater Residence', 'Two-Bedroom Beachfront Pool Residence', 'Two-Bedroom Overwater Pool Villa with Club InterContinental Benefits', 'Two-Bedroom Family Beach Pool Villa with Club InterContinental Benefits', 'Two-Bedroom Family Lagoon Villa with Club InterContinental Benefits', 'Family Beach Pool Villa with Club InterContinental Benefits', 'One Bedroom Beach Pool Villa with Club InterContinental benefits', 'Sunset One Bedroom Lagoon Pool Villa with Club InterContinental benefits', 'One Bedroom Lagoon Pool Villa with Club InterContinental benefits', 'Sunset Overwater Pool Villa with Club InterContinental Benefits', 'Overwater Pool Villa with Club InterContinental Benefits', 'Beach Pool Villa with Club InterContinental Benefits']
+status: FAILED
+
+75. Ja Manafaru Maldives
+bookingHotelURL: https://www.booking.com/hotel/mv/ja-manafaru-maldives.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/ja-manafaru-maldives/
+mtrRoomsNumber: 8
+bookingRoomsNumber: 7
+extra rooms found: 1
+booking rooms: ['Beach Villa with Private Pool', 'Deluxe Beach Villa with Family Private Pool', 'Sunrise Water Villa with Infinity Pool', 'Sunset Water Villa with Infinity Pool', '\t Three Bedroom Island Residence with Family Pool and Private Pool', 'Two Bedroom Ocean Residence with Family Infinity Pool', 'Two Bedroom Beach Residence with Family Pool and Private Pool']
+mtr rooms: ['Three Bedroom Island Residence with Family Pool and Private Pool', 'Two Bedroom Beach Residence with Family Pool and Private Pool', 'Two Bedroom Ocean Residence with Family Infinity Pool', 'Three Bedroom Island Residence with Family Pool and Private Pool', 'Sunset Water Villa with Infinity Pool', 'Sunrise Water Villa with Infinity Pool', 'Deluxe Beach Villa with Family Private Pool', 'Beach Villa with Private Pool']
+status: FAILED
+
+76. Joali  Maldives
+bookingHotelURL: https://www.booking.com/hotel/mv/joali-maldives.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/joali-maldives/
+mtrRoomsNumber: 9
+bookingRoomsNumber: 9
+Status: SUCCESS
+
+77. Joali Being
+bookingHotelURL: https://www.booking.com/hotel/mv/joali-being-raa-atoll.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/joali-being/
+mtrRoomsNumber: 6
+bookingRoomsNumber: 6
+Status: SUCCESS
+
+78. Jumeirah Maldives  Olhahali Island
+bookingHotelURL: https://www.booking.com/hotel/mv/jumeirah-maldives-olhahali-island.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/jumeirah-maldives-olhahali-island/
+mtrRoomsNumber: 8
+bookingRoomsNumber: 8
+Status: SUCCESS
+
+79. Jw Marriott Maldives Resort &Amp; Spa
+bookingHotelURL: https://www.booking.com/hotel/mv/jw-marriott-maldives-resortandspa.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/jw-marriott-maldives-resort-spa/
+mtrRoomsNumber: 6
+bookingRoomsNumber: 6
+Status: SUCCESS
+
+80. Kagi Maldives Spa Island
+bookingHotelURL: https://www.booking.com/hotel/mv/kagi-maldives.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/kagi-maldives-spa-island/
+mtrRoomsNumber: 5
+bookingRoomsNumber: 4
+extra rooms found: 1
+booking rooms: ['Lagoon Pool Villa', ' Ocean Pool Villa', 'Beach Pool Villa', 'Ocean Pool Villa with Free Transfers ']
+mtr rooms: ['Ocean Pool Villa', 'Ocean Pool Villa with Free Transfers', 'Beach Pool Villa', 'Ocean Pool Villa', 'Lagoon Pool Villa']
+status: FAILED
+
+81. Kandima Maldives
+bookingHotelURL: https://www.booking.com/hotel/mv/kandima-maldives.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/kandima-maldives/
+mtrRoomsNumber: 10
+bookingRoomsNumber: 10
+Status: SUCCESS
+
+82. Kandolhu Maldives
+bookingHotelURL: https://www.booking.com/hotel/mv/kandolhu-island.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/kandolhu-maldives/
+mtrRoomsNumber: 5
+bookingRoomsNumber: 5
+Status: SUCCESS
+
+83. Kihaa Maldives
+bookingHotelURL: https://www.booking.com/hotel/mv/kihaad-maldives.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/kihaa-maldives/
+mtrRoomsNumber: 13
+bookingRoomsNumber: 12
+extra rooms found: 1
+booking rooms: ['Lagoon Prestige Pavilion Beach Villa', 'Beach Villa', 'Two-Bedroom Family Beach Villa', 'Two-Bedroom Beach Suite with Private Pool', 'Lagoon Villa with Plunge Pool', 'Garden Villa with Pool', 'Two-Bedroom Maldivian Suite with Two Private Pools', 'Water Villa with Plunge Pool', 'Water Suite with Plunge Pool', 'Beach Villa with Private Pool', 'Beach Suite with Infinity Pool', 'Three-Bedroom Royal Suite with Infinity Pool & Private Pool']
+mtr rooms: ['Three-Bedroom Royal Suite with Infinity Pool & Private Pool', 'Three-Bedroom Royal Suite with Infinity Pool & Private Pool', 'Beach Suite with Infinity Pool', 'Beach Villa with Private Pool', 'Water Suite with Plunge Pool', 'Water Villa with Plunge Pool', 'Two-Bedroom Maldivian Suite with Two Private Pools', 'Garden Villa with Pool', 'Lagoon Villa with Plunge Pool', 'Two-Bedroom Beach Suite with Private Pool', 'Two-Bedroom Family Beach Villa', 'Beach Villa', 'Lagoon Prestige Pavilion Beach Villa']
+status: FAILED
+
+84. Komandoo Island Resort &Amp; Spa
+bookingHotelURL: https://www.booking.com/hotel/mv/komandoo-island-resort-amp-spa.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/komandoo-island-resort-spa/
+mtrRoomsNumber: 6
+bookingRoomsNumber: 5
+extra rooms found: 1
+booking rooms: ['Beach Villa', 'Jacuzzi Beach Villa', 'Jacuzzi Water Villa', ' Premium Beach Villa with Jetted Tub', 'Ocean Villa with Jetted Tub']
+mtr rooms: ['Premium Beach Villa with Jetted Tub', 'Ocean Villa with Jetted Tub', 'Premium Beach Villa with Jetted Tub', 'Jacuzzi Water Villa', 'Jacuzzi Beach Villa', 'Beach Villa']
+status: FAILED
+
+85. Kuda Villingili Resort Maldives
+bookingHotelURL: https://www.booking.com/hotel/mv/kuda-villingili-resort-maldives.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/kuda-villingili-resort-maldives/
+mtrRoomsNumber: 7
+bookingRoomsNumber: 8
+rooms missed: 1
+Booking rooms: ['Beach Villa', 'Water Villa', 'Single Room', 'Triple Room', 'Apartment', 'Apartment', 'Suite', 'Suite']
+mtr rooms: ['Suite', 'Apartment', 'Apartment', 'Triple Room', 'Single Room', 'Water Villa', 'Beach Villa']
+status: FAILED
+
+86. Kudadoo Maldives Private Island Â€“ Luxury All Inclusive
+bookingHotelURL: https://www.booking.com/hotel/mv/kudadoo-maldives-private-island-lhaviyani-atoll.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/kudadoo-maldives-private-island-luxury-all-inclusive/
+mtrRoomsNumber: 2
+bookingRoomsNumber: 2
+Status: SUCCESS
+
+87. Kudafushi Resort &Amp; Spa
+bookingHotelURL: https://www.booking.com/hotel/mv/kudafushi-resort-amp-spa.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/kudafushi-resort-spa/
+mtrRoomsNumber: 4
+bookingRoomsNumber: 4
+Status: SUCCESS
+
+88. Kuramathi Maldives
+bookingHotelURL: https://www.booking.com/hotel/mv/kuramathi-island-resort.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/kuramathi-maldives/
+mtrRoomsNumber: 12
+bookingRoomsNumber: 10
+extra rooms found: 2
+booking rooms: ['Beach Bungalow', 'Deluxe Beach Villa', ' Superior Beach Villa', ' Water Villa ', 'Beach Villa', 'Two-Bedroom Beach House', 'Deluxe Water Villa', 'Water Villa with Pool', 'Pool Villa', 'Thundi Water Villa with Pool']
+mtr rooms: ['Water Villa', 'Superior Beach Villa', 'Thundi Water Villa with Pool', 'Pool Villa', 'Water Villa with Pool', 'Deluxe Water Villa', 'Two-Bedroom Beach House', 'Beach Villa', 'Water Villa', 'Superior Beach Villa', 'Deluxe Beach Villa', 'Beach Bungalow']
+status: FAILED
+
+89. Kuredu Island Resort &Amp; Spa
+bookingHotelURL: https://www.booking.com/hotel/mv/kuredu-island-resort-amp-spa.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/kuredu-island-resort-spa/
+mtrRoomsNumber: 14
+bookingRoomsNumber: 14
+Status: SUCCESS
+
+90. Kurumba Maldives
+bookingHotelURL: https://www.booking.com/hotel/mv/kurumba-maldives.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/kurumba-maldives/
+mtrRoomsNumber: 7
+bookingRoomsNumber: 7
+Status: SUCCESS
+
+91. Le Mã©Ridien Maldives Resort &Amp; Spa
+bookingHotelURL: https://www.booking.com/hotel/mv/le-meridien-maldives-resort-spa.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/le-meridien-maldives-resort-spa/
+mtrRoomsNumber: 11
+bookingRoomsNumber: 11
+Status: SUCCESS
+
+92. Lily Beach Resort And Spa All Inclusive
+bookingHotelURL: https://www.booking.com/hotel/mv/lily-beach-resort-and-spa.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/lily-beach-resort-and-spa-all-inclusive/
+mtrRoomsNumber: 6
+bookingRoomsNumber: 6
+Status: SUCCESS
+
+93. Lux* South Ari Atoll Resort &Amp; Villas
+bookingHotelURL: https://www.booking.com/hotel/mv/diva-maldives.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/lux-south-ari-atoll-resort-villas/
+mtrRoomsNumber: 9
+bookingRoomsNumber: 9
+Status: SUCCESS
+
+94. Makunudu Island
+bookingHotelURL: https://www.booking.com/hotel/mv/makunudu-island.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/makunudu-island/
+mtrRoomsNumber: 1
+bookingRoomsNumber: 1
+Status: SUCCESS
+
+95. Malahini Kuda Bandos Resort
+bookingHotelURL: https://www.booking.com/hotel/mv/malahini-kuda-bandos-resort.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/malahini-kuda-bandos-resort/
+mtrRoomsNumber: 5
+bookingRoomsNumber: 4
+extra rooms found: 1
+booking rooms: ['Deluxe Room with Sea View', 'Superior Room with Sea View & Balcony ', 'Garden View Room', 'Sunrise Beach Pool Villa ']
+mtr rooms: ['Superior Room with Sea View & Balcony', 'Sunrise Beach Pool Villa', 'Garden View Room', 'Superior Room with Sea View & Balcony', 'Deluxe Room with Sea View']
+status: FAILED
+
+96. Medhufushi Island Resort
+bookingHotelURL: https://www.booking.com/hotel/mv/medhufushi-island-resort.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/medhufushi-island-resort/
+mtrRoomsNumber: 5
+bookingRoomsNumber: 5
+Status: SUCCESS
+
+97. Meeru Island Resort &Amp; Spa
+bookingHotelURL: https://www.booking.com/hotel/mv/meeru-island-resort-amp-spa.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/meeru-island-resort-spa/
+mtrRoomsNumber: 6
+bookingRoomsNumber: 6
+Status: SUCCESS
+
+98. Mercure Maldives Kooddoo All-Inclusive Resort
+bookingHotelURL: https://www.booking.com/hotel/mv/mercure-maldives-kooddoo-resort.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/mercure-maldives-kooddoo-all-inclusive-resort/
+mtrRoomsNumber: 5
+bookingRoomsNumber: 5
+Status: SUCCESS
+
+99. Milaidhoo Island Maldives
+bookingHotelURL: https://www.booking.com/hotel/mv/milaidhoo-island-maldives.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/milaidhoo-island-maldives/
+mtrRoomsNumber: 3
+bookingRoomsNumber: 3
+Status: SUCCESS
+
+100. Mirihi Island Resort
+bookingHotelURL: https://www.booking.com/hotel/mv/mirihi-island-resort.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/mirihi-island-resort/
+mtrRoomsNumber: 8
+bookingRoomsNumber: 4
+extra rooms found: 4
+booking rooms: ['Water Villa (20% off on Spa within 2 Days of Arrival, Free Yoga & Meditation Sessions)', 'Beach Villa (20% off on Spa within 2 Days of Arrival, Free Yoga & Meditation Sessions)', 'Two-Bedroom Beach Suite (20% off on Spa within 2 Days of Arrival, Free Yoga & Meditation Sessions)', 'Two-Bedroom Water Suite (20% off on Spa within 2 Days of Arrival, Free Yoga & Meditation Sessions)']
+mtr rooms: ['Two-Bedroom Water Suite (20% off on Spa within 2 Days of Arrival, Free Yoga & Meditation Sessions)', 'Two-Bedroom Beach Suite (20% off on Spa within 2 Days of Arrival, Free Yoga & Meditation Sessions)', 'Beach Villa (20% off on Spa within 2 Days of Arrival, Free Yoga & Meditation Sessions)', 'Water Villa (20% off on Spa within 2 Days of Arrival, Free Yoga & Meditation Sessions)', 'Two-Bedroom Water Suite (20% off on Spa within 2 Days of Arrival, Free Yoga & Meditation Sessions)', 'Two-Bedroom Beach Suite (20% off on Spa within 2 Days of Arrival, Free Yoga & Meditation Sessions)', 'Beach Villa (20% off on Spa within 2 Days of Arrival, Free Yoga & Meditation Sessions)', 'Water Villa (20% off on Spa within 2 Days of Arrival, Free Yoga & Meditation Sessions)']
+status: FAILED
+
+101. Movenpick Resort Kuredhivaru Maldives
+bookingHotelURL: https://www.booking.com/hotel/mv/movenpick-resort-kuredhivaru-maldives.uk.html
+mtrHotelURL: http://31.40.107.188/st_hotel/m%d3%a7venpick-resort-kuredhivaru-maldives/
+mtrRoomsNumber: 7
+bookingRoomsNumber: 7
+Status: SUCCESS
+
+102. Nakai Dhiggiri Resort
+bookingHotelURL: https://www.booking.com/hotel/mv/nakai-dhiggiri-resort.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/nakai-dhiggiri-resort/
+mtrRoomsNumber: 2
+bookingRoomsNumber: 0
+extra rooms found: 2
+booking rooms: []
+mtr rooms: ['Bungalow — Water Front', 'Bungalow — Beach Front']
+status: FAILED
+
+103. Naladhu Private Island Maldives
+bookingHotelURL: https://www.booking.com/hotel/mv/naladhu-maldives.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/naladhu-private-island-maldives/
+mtrRoomsNumber: 6
+bookingRoomsNumber: 6
+Status: SUCCESS
+
+104. Nika Island Resort &Amp; Spa  Maldives
+bookingHotelURL: https://www.booking.com/hotel/mv/nika-island-resort-amp-spa-maldives.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/nika-island-resort-spa-maldives/
+mtrRoomsNumber: 7
+bookingRoomsNumber: 7
+Status: SUCCESS
+
+105. Niyama Private Islands Maldives
+bookingHotelURL: https://www.booking.com/hotel/mv/nitama-by-per-aquum.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/niyama-private-islands-maldives/
+mtrRoomsNumber: 13
+bookingRoomsNumber: 13
+Status: SUCCESS
+
+106. Noku Maldives
+bookingHotelURL: https://www.booking.com/hotel/mv/roxy-maldives-resort.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/noku-maldives/
+mtrRoomsNumber: 7
+bookingRoomsNumber: 7
+Status: SUCCESS
+
+107. Nova Maldives
+bookingHotelURL: https://www.booking.com/hotel/mv/nova-maldives-vakarufalhi.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/nova-maldives/
+mtrRoomsNumber: 10
+bookingRoomsNumber: 10
+Status: SUCCESS
+
+108. Oblu Nature Helengeli-All-Inclusive With Free Transfers
+bookingHotelURL: https://www.booking.com/hotel/mv/oblu-at-helengeli-by-atmosphere.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/oblu-nature-helengeli-all-inclusive-with-free-transfers/
+mtrRoomsNumber: 6
+bookingRoomsNumber: 6
+Status: SUCCESS
+
+109. Oblu Select Sangeli Premium All Inclusive With Free Transfers
+bookingHotelURL: https://www.booking.com/hotel/mv/oblu-select-sangeli.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/oblu-select-sangeli-premium-all-inclusive-with-free-transfers/
+mtrRoomsNumber: 10
+bookingRoomsNumber: 10
+Status: SUCCESS
+
+110. One&Amp;Only Reethi Rah
+bookingHotelURL: https://www.booking.com/hotel/mv/one-and-only-reethi-rah.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/oneonly-reethi-rah/
+mtrRoomsNumber: 22
+bookingRoomsNumber: 22
+Status: SUCCESS
+
+111. Outrigger Maldives Maafushivaru Maldives
+bookingHotelURL: https://www.booking.com/hotel/mv/maafushivaru-maldives.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/outrigger-maldives-maafushivaru-resort/
+mtrRoomsNumber: 5
+bookingRoomsNumber: 5
+Status: SUCCESS
+
+112. Ozen Life Maadhoo Luxury All Inclusive
+bookingHotelURL: https://www.booking.com/hotel/mv/ozen-by-atmosphere-at-maadhoo.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/ozen-life-maadhoo-luxury-all-inclusive/
+mtrRoomsNumber: 5
+bookingRoomsNumber: 5
+Status: SUCCESS
+
+113. Ozen Reserve Bolifushi Luxury All Inclusive
+bookingHotelURL: https://www.booking.com/hotel/mv/ozen-reserve.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/ozen-reserve-bolifushi-luxury-all-inclusive/
+mtrRoomsNumber: 7
+bookingRoomsNumber: 7
+Status: SUCCESS
+
+114. Paradise Island Resort &Amp; Spa
+bookingHotelURL: https://www.booking.com/hotel/mv/paradise-island-resort-spa.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/paradise-island-resort-spa/
+mtrRoomsNumber: 9
+bookingRoomsNumber: 9
+Status: SUCCESS
+
+115. Park Hyatt Maldives Hadahaa
+bookingHotelURL: https://www.booking.com/hotel/mv/park-hyatt-maldives-hadahaa.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/park-hyatt-maldives-hadahaa/
+mtrRoomsNumber: 6
+bookingRoomsNumber: 6
+Status: SUCCESS
+
+116. Patina Maldives  Fari Islands
+bookingHotelURL: https://www.booking.com/hotel/mv/patina-maldives-fari-islands-north-maldives.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/patina-maldives-fari-islands/
+mtrRoomsNumber: 12
+bookingRoomsNumber: 12
+Status: SUCCESS
+
+117. Pullman Maldives All-Inclusive Resort
+bookingHotelURL: https://www.booking.com/hotel/mv/pullman-maldives-maamutaa-resort.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/pullman-maldives-all-inclusive-resort/
+mtrRoomsNumber: 7
+bookingRoomsNumber: 7
+Status: SUCCESS
+
+118. Radisson Blu Resort Maldives
+bookingHotelURL: https://www.booking.com/hotel/mv/radisson-blu-resort-maldives.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/radisson-blu-resort-maldives/
+mtrRoomsNumber: 9
+bookingRoomsNumber: 9
+Status: SUCCESS
+
+119. Raffles Maldives Meradhoo
+bookingHotelURL: https://www.booking.com/hotel/mv/raffles-maldives-meradhoo.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/raffles-maldives-meradhoo/
+mtrRoomsNumber: 9
+bookingRoomsNumber: 9
+Status: SUCCESS
+
+120. Rahaa Resort
+bookingHotelURL: https://www.booking.com/hotel/mv/rahaa-resort.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/rahaa-resort/
+mtrRoomsNumber: 2
+bookingRoomsNumber: 2
+Status: SUCCESS
+
+121. Rasdu View Inn
+bookingHotelURL: https://www.booking.com/hotel/mv/rasdu-view-inn.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/rasdu-view-inn/
+mtrRoomsNumber: 2
+bookingRoomsNumber: 2
+Status: SUCCESS
+
+122. Reethi Beach Resort
+bookingHotelURL: https://www.booking.com/hotel/mv/reethi-beach-resort.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/reethi-beach-resort/
+mtrRoomsNumber: 7
+bookingRoomsNumber: 7
+Status: SUCCESS
+
+123. Reethi Faru  Bio Luxury Resort
+bookingHotelURL: https://www.booking.com/hotel/mv/reethi-faru-resort.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/reethi-faru-bio-luxury-resort/
+mtrRoomsNumber: 7
+bookingRoomsNumber: 7
+Status: SUCCESS
+
+124. Rekidhiye Inn
+bookingHotelURL: https://www.booking.com/hotel/mv/rekidhiye-inn.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/rekidhiye-inn/
+mtrRoomsNumber: 2
+bookingRoomsNumber: 2
+Status: SUCCESS
+
+125. Rihiveli Maldives Resort
+bookingHotelURL: https://www.booking.com/hotel/mv/rihiveli-beach-resort.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/rihiveli-maldives-resort/
+mtrRoomsNumber: 6
+bookingRoomsNumber: 6
+Status: SUCCESS
+
+126. Riu Atoll-All Inclusive
+bookingHotelURL: https://www.booking.com/hotel/mv/riu-atoll.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/riu-atoll-all-inclusive/
+mtrRoomsNumber: 6
+bookingRoomsNumber: 6
+Status: SUCCESS
+
+127. Riu Palace Maldivas- All Inclusive
+bookingHotelURL: https://www.booking.com/hotel/mv/riu-palace-maldivas.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/riu-palace-maldivas-all-inclusive/
+mtrRoomsNumber: 6
+bookingRoomsNumber: 6
+Status: SUCCESS
+
+128. Robinson Maldives Adults Only
+bookingHotelURL: https://www.booking.com/hotel/mv/robinson-club-maldives.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/robinson-maldives-adults-only/
+mtrRoomsNumber: 6
+bookingRoomsNumber: 6
+Status: SUCCESS
+
+129. Robinson Noonu All Inclusive
+bookingHotelURL: https://www.booking.com/hotel/mv/robinson-club-noonu.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/robinson-noonu-all-inclusive/
+mtrRoomsNumber: 10
+bookingRoomsNumber: 10
+Status: SUCCESS
+
+130. Royal Island Resort At Baa Atoll Biosphere Reserve
+bookingHotelURL: https://www.booking.com/hotel/mv/royal-island-resort-spa.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/royal-island-resort-at-baa-atoll-biosphere-reserve/
+mtrRoomsNumber: 5
+bookingRoomsNumber: 5
+Status: SUCCESS
+
+131. Safari Island
+bookingHotelURL: https://www.booking.com/hotel/mv/safari-island.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/safari-island/
+mtrRoomsNumber: 3
+bookingRoomsNumber: 3
+Status: SUCCESS
+
+132. Saii Lagoon Maldives  Curio Collection By Hilton
+bookingHotelURL: https://www.booking.com/hotel/mv/saii-lagoon-maldives-curio-collection-by-hilton.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/saii-lagoon-maldives-curio-collection-by-hilton/
+mtrRoomsNumber: 11
+bookingRoomsNumber: 11
+Status: SUCCESS
+
+133. Sandies Bathala
+bookingHotelURL: https://www.booking.com/hotel/mv/sandies-bathala.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/sandies-bathala/
+mtrRoomsNumber: 2
+bookingRoomsNumber: 2
+Status: SUCCESS
+
+134. Sheraton Maldives Full Moon Resort &Amp; Spa With Free Transfers
+bookingHotelURL: https://www.booking.com/hotel/mv/sheraton-maldives-full-moon-resort-amp-spa.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/sheraton-maldives-full-moon-resort-spa-with-free-transfers/
+mtrRoomsNumber: 12
+bookingRoomsNumber: 12
+Status: SUCCESS
+
+135. Six Senses Laamu
+bookingHotelURL: https://www.booking.com/hotel/mv/six-senses-laamu.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/six-senses-laamu/
+mtrRoomsNumber: 8
+bookingRoomsNumber: 8
+Status: SUCCESS
+
+136. Siyam World Maldives 24-Hour Premium All-Inclusive With Free Transfer
+bookingHotelURL: https://www.booking.com/hotel/mv/sun-siyam-iru-fen.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/siyam-world-maldives-24-hour-premium-all-inclusive-with-free-transfer/
+mtrRoomsNumber: 14
+bookingRoomsNumber: 14
+Status: SUCCESS
+
+137. Soneva Fushi
+bookingHotelURL: https://www.booking.com/hotel/mv/soneva-fushi.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/soneva-fushi/
+mtrRoomsNumber: 12
+bookingRoomsNumber: 9
+extra rooms found: 3
+booking rooms: ['Crusoe with Pool', '2 Bedroom Crusoe Suite with Pool ', 'Soneva Fushi Villa Suite with Pool', ' Soneva Fushi Family Suite with Pool', 'Crusoe Suite with Pool ', ' 3 Bedroom Crusoe Suite with Pool', '2  Bedroom Water Retreat With Slide', ' 1 Bedroom Water Retreat with Slide', '2 Bedroom Crusoe Residence with Pool']
+mtr rooms: ['1 Bedroom Water Retreat with Slide', '3 Bedroom Crusoe Suite with Pool', 'Soneva Fushi Family Suite with Pool', '2 Bedroom Crusoe Residence with Pool', '1 Bedroom Water Retreat with Slide', '2  Bedroom Water Retreat With Slide', '3 Bedroom Crusoe Suite with Pool', 'Crusoe Suite with Pool', 'Soneva Fushi Family Suite with Pool', 'Soneva Fushi Villa Suite with Pool', '2 Bedroom Crusoe Suite with Pool', 'Crusoe with Pool']
+status: FAILED
+
+138. Soneva Jani
+bookingHotelURL: https://www.booking.com/hotel/mv/soneva-jani.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/soneva-jani/
+mtrRoomsNumber: 17
+bookingRoomsNumber: 10
+extra rooms found: 7
+booking rooms: ['3 Bedroom Island Reserve with Slide', '4 Bedroom Island Reserve With Slide ', ' 2 Bedroom Crusoe Reserve with Slide', '4 Bedroom Water Reserve with Slide', '4 Bedroom Water Retreat with Slide', ' 3 Bedroom Water Retreat with Slide', ' 2 Bedroom Water Reserve with Slide', ' 2 Bedroom Water Retreat with Slide', ' 1 Bedroom Water Reserve with Slide', ' 1 Bedroom Water Retreat with Slide']
+mtr rooms: ['1 Bedroom Water Retreat with Slide', '1 Bedroom Water Reserve with Slide', '2 Bedroom Water Retreat with Slide', '2 Bedroom Water Reserve with Slide', '3 Bedroom Water Retreat with Slide', '2 Bedroom Crusoe Reserve with Slide', '1 Bedroom Water Retreat with Slide', '1 Bedroom Water Reserve with Slide', '2 Bedroom Water Retreat with Slide', '2 Bedroom Water Reserve with Slide', '3 Bedroom Water Retreat with Slide', '4 Bedroom Water Retreat with Slide', '4 Bedroom Water Reserve with Slide', '2 Bedroom Crusoe Reserve with Slide', '4 Bedroom Island Reserve With Slide', '3 Bedroom Island Reserve with Slide', '1 Bedroom Water Retreat']
+status: FAILED
+
+139. South Palm Resort Maldives
+bookingHotelURL: https://www.booking.com/hotel/mv/south-palm-resort-maldives.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/south-palm-resort-maldives/
+mtrRoomsNumber: 6
+bookingRoomsNumber: 6
+Status: SUCCESS
+
+140. Summer Island Maldives Resort
+bookingHotelURL: https://www.booking.com/hotel/mv/summer-island-maldives.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/summer-island-maldives-resort/
+mtrRoomsNumber: 8
+bookingRoomsNumber: 7
+extra rooms found: 1
+booking rooms: ['Superior Bungalow', 'Superior Beach Access', 'Superior Villa Upper Floor', 'Premium Beach Villa', 'Water Villa', 'Two-Bedroom Summer House', 'Special Offer - 2 Nights Beach Bungalow & 2 Nights Water Villa']
+mtr rooms: ['Special Offer — 2 Nights Beach Bungalow & 2 Nights Water Villa', 'Special Offer — 2 Nights Beach Bungalow & 2 Nights Water Villa', 'Two-Bedroom Summer House', 'Water Villa', 'Premium Beach Villa', 'Superior Villa Upper Floor', 'Superior Beach Access', 'Superior Bungalow']
+status: FAILED
+
+141. Sun Island Resort &Amp; Spa
+bookingHotelURL: https://www.booking.com/hotel/mv/sun-island-resort-spa.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/sun-island-resort-spa/
+mtrRoomsNumber: 12
+bookingRoomsNumber: 12
+Status: SUCCESS
+
+142. Sun Siyam Iru Fushi
+bookingHotelURL: https://www.booking.com/hotel/mv/iru-fushi-beach-amp-spa-maldives.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/sun-siyam-iru-fushi/
+mtrRoomsNumber: 18
+bookingRoomsNumber: 9
+extra rooms found: 9
+booking rooms: ['Deluxe Beach Villa - 2 Children up to 14 years can Stay & Eat Free', 'Deluxe Beach Villa with Private Pool - 2 Children up to 14 years can Stay & Eat Free', 'Water Villa - 2 Children up to 14 years can Stay & Eat Free', 'Horizon Water Villa - 2 Children up to 14 years can Stay & Eat Free', 'Sunset Horizon Water Villa - 2 Children up to 14 years can Stay & Eat Free', 'Infinity Water Villa with Separate Living - 2 Children up to 14 years can Stay & Eat Free', ' Beach Villa with Private Pool - 2 Children up to 14 years can Stay & Eat Free', ' Family Deluxe Villa Pool with Separate Living - 2 Children up to 14 years can Stay & Eat Free', 'Horizon Water Villa with Pool - 2 Children up to 14 years can Stay & Eat Free']
+mtr rooms: ['Horizon Water Villa with Pool — 2 Children up to 14 years can Stay & Eat Free', 'Family Deluxe Villa Pool with Separate Living — 2 Children up to 14 years can Stay & Eat Free', 'Beach Villa with Private Pool — 2 Children up to 14 years can Stay & Eat Free', 'Infinity Water Villa with Separate Living — 2 Children up to 14 years can Stay & Eat Free', 'Sunset Horizon Water Villa — 2 Children up to 14 years can Stay & Eat Free', 'Horizon Water Villa — 2 Children up to 14 years can Stay & Eat Free', 'Water Villa — 2 Children up to 14 years can Stay & Eat Free', 'Deluxe Beach Villa with Private Pool — 2 Children up to 14 years can Stay & Eat Free', 'Deluxe Beach Villa — 2 Children up to 14 years can Stay & Eat Free', 'Horizon Water Villa with Pool — 2 Children up to 14 years can Stay & Eat Free', 'Family Deluxe Villa Pool with Separate Living — 2 Children up to 14 years can Stay & Eat Free', 'Beach Villa with Private Pool — 2 Children up to 14 years can Stay & Eat Free', 'Infinity Water Villa with Separate Living — 2 Children up to 14 years can Stay & Eat Free', 'Sunset Horizon Water Villa — 2 Children up to 14 years can Stay & Eat Free', 'Horizon Water Villa — 2 Children up to 14 years can Stay & Eat Free', 'Water Villa — 2 Children up to 14 years can Stay & Eat Free', 'Deluxe Beach Villa with Private Pool — 2 Children up to 14 years can Stay & Eat Free', 'Deluxe Beach Villa — 2 Children up to 14 years can Stay & Eat Free']
+status: FAILED
+
+143. Sun Siyam Iruveli Premium All Inclusive With Free Transfers
+bookingHotelURL: https://www.booking.com/hotel/mv/sun-aqua-iru-veli.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/sun-siyam-iruveli-premium-all-inclusive-with-free-transfers/
+mtrRoomsNumber: 5
+bookingRoomsNumber: 5
+Status: SUCCESS
+
+144. Sun Siyam Olhuveli
+bookingHotelURL: https://www.booking.com/hotel/mv/olhuveli-beach-and-spa-resort.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/sun-siyam-olhuveli/
+mtrRoomsNumber: 7
+bookingRoomsNumber: 7
+Status: SUCCESS
+
+145. Sun Siyam Vilu Reef
+bookingHotelURL: https://www.booking.com/hotel/mv/villi-reef-beach-and-spa-resort.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/sun-siyam-vilu-reef/
+mtrRoomsNumber: 8
+bookingRoomsNumber: 8
+Status: SUCCESS
+
+146. Taj Coral Reef Resort &Amp; Spa All Inclusive With Free Transfers
+bookingHotelURL: https://www.booking.com/hotel/mv/vivanta-by-taj-coral-reef.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/taj-coral-reef-resort-spa-all-inclusive-with-free-transfers/
+mtrRoomsNumber: 12
+bookingRoomsNumber: 12
+Status: SUCCESS
+
+147. Taj Exotica Resort &Amp; Spa
+bookingHotelURL: https://www.booking.com/hotel/mv/taj-exotica-resort-spa.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/taj-exotica-resort-spa/
+mtrRoomsNumber: 10
+bookingRoomsNumber: 10
+Status: SUCCESS
+
+148. The Barefoot Eco Hotel
+bookingHotelURL: https://www.booking.com/hotel/mv/the-barefoot-eco.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/the-barefoot-eco-hotel/
+mtrRoomsNumber: 5
+bookingRoomsNumber: 5
+Status: SUCCESS
+
+149. The Nautilus Maldives
+bookingHotelURL: https://www.booking.com/hotel/mv/the-nautilus-maldives.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/the-nautilus-maldives/
+mtrRoomsNumber: 7
+bookingRoomsNumber: 7
+Status: SUCCESS
+
+150. The Residence Maldives
+bookingHotelURL: https://www.booking.com/hotel/mv/the-residence-maldives.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/the-residence-maldives/
+mtrRoomsNumber: 8
+bookingRoomsNumber: 7
+extra rooms found: 1
+booking rooms: ['One-Bedroom Beach Villa', 'One-Bedroom Beach Villa with the Private Pool', 'One-Bedroom Water Villa', 'One-Bedroom Water Villa with the Private Pool', 'Special Offer: 2 nights Beach Villa + 2 nights Water Villa', 'Special Offer: 2 nights Beach Pool Villa + 2 nights Water Pool Villa', 'Five Night Offer: One-Bedroom Beach Villa (Free Return Airport Transfer & 20% off on Spa Treatment) ']
+mtr rooms: ['Five Night Offer: One-Bedroom Beach Villa (Free Return Airport Transfer & 20% off on Spa Treatment)', 'Five Night Offer: One-Bedroom Beach Villa (Free Return Airport Transfer & 20% off on Spa Treatment)', 'Special Offer: 2 nights Beach Pool Villa + 2 nights Water Pool Villa', 'Special Offer: 2 nights Beach Villa + 2 nights Water Villa', 'One-Bedroom Water Villa with the Private Pool', 'One-Bedroom Water Villa', 'One-Bedroom Beach Villa with the Private Pool', 'One-Bedroom Beach Villa']
+status: FAILED
+
+151. The Residence Maldives At Dhigurah
+bookingHotelURL: https://www.booking.com/hotel/mv/the-residence-maldives-at-dhigurah.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/the-residence-maldives-at-dhigurah/
+mtrRoomsNumber: 13
+bookingRoomsNumber: 12
+extra rooms found: 1
+booking rooms: ['Sunrise Beach Pool Villa', 'One-Bedroom Villa', 'Deluxe Villa', 'Deluxe Bungalow', 'Lagoon Pool Villa', 'Deluxe Lagoon Pool Villa', 'Sunrise Water Pool Villa', 'Sunset Water Pool Villa', 'Sunrise Two Bedroom Beach Pool Villa', 'Sunset Two Bedroom Beach Pool Villa', 'Sunrise Two Bedroom Water Pool Villa', 'Five Night Offer: Sunrise Beach Pool Villa (Free Return Airport Transfer & 20% off on Spa Treatments)']
+mtr rooms: ['Five Night Offer: Sunrise Beach Pool Villa (Free Return Airport Transfer & 20% off on Spa Treatments)', 'Five Night Offer: Sunrise Beach Pool Villa (Free Return Airport Transfer & 20% off on Spa Treatments)', 'Sunrise Two Bedroom Water Pool Villa', 'Sunset Two Bedroom Beach Pool Villa', 'Sunrise Two Bedroom Beach Pool Villa', 'Sunset Water Pool Villa', 'Sunrise Water Pool Villa', 'Deluxe Lagoon Pool Villa', 'Lagoon Pool Villa', 'Deluxe Bungalow', 'Deluxe Villa', 'One-Bedroom Villa', 'Sunrise Beach Pool Villa']
+status: FAILED
+
+152. The Ritz-Carlton Maldives  Fari Islands
+bookingHotelURL: https://www.booking.com/hotel/mv/the-ritz-carlton-maldives-fari-islands.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/the-ritz-carlton-maldives-fari-islands/
+mtrRoomsNumber: 7
+bookingRoomsNumber: 7
+Status: SUCCESS
+
+153. The St. Regis Maldives Vommuli Resort
+bookingHotelURL: https://www.booking.com/hotel/mv/the-st-regis-maldives-vommuli-resort.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/the-st-regis-maldives-vommuli-resort/
+mtrRoomsNumber: 11
+bookingRoomsNumber: 11
+Status: SUCCESS
+
+154. The Standard  Huruvalhi Maldives
+bookingHotelURL: https://www.booking.com/hotel/mv/carpe-diem-beach-resort-amp-spa.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/the-standard-huruvalhi-maldives/
+mtrRoomsNumber: 8
+bookingRoomsNumber: 8
+Status: SUCCESS
+
+155. The Westin Maldives Miriandhoo Resort
+bookingHotelURL: https://www.booking.com/hotel/mv/the-westin-maldives-miriandhoo-resort.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/the-westin-maldives-miriandhoo-resort/
+mtrRoomsNumber: 15
+bookingRoomsNumber: 10
+extra rooms found: 5
+booking rooms: ['Beach Villa with Pool Access, 1 King Bed', '\t Deluxe Beach Villa with Pool Access, 1 King Bed', 'Overwater Villa, 1 King Bed', '\t Overwater Villa with Pool Access, 1 King Bed', '\t Heavenly Beach Residence with 2 Bedrooms, Pool and Ocean View', 'Heavenly Beach Residence Pool, 2 Bedrooms, Ocean View', '\t Family Beach Villa with Pool Access, 2 Queen Beds', 'Deluxe Family Beach Villa with Pool Access, 2 Queen Beds', '\t Heavenly Overwater Pool Villa, 1 King Bed', 'Two Bedrooms Beach Villa with Ocean View']
+mtr rooms: ['Heavenly Overwater Pool Villa, 1 King Bed', 'Family Beach Villa with Pool Access, 2 Queen Beds', 'Heavenly Beach Residence with 2 Bedrooms, Pool and Ocean View', 'Overwater Villa with Pool Access, 1 King Bed', 'Deluxe Beach Villa with Pool Access, 1 King Bed', 'Two Bedrooms Beach Villa with Ocean View', 'Heavenly Overwater Pool Villa, 1 King Bed', 'Deluxe Family Beach Villa with Pool Access, 2 Queen Beds', 'Family Beach Villa with Pool Access, 2 Queen Beds', 'Heavenly Beach Residence Pool, 2 Bedrooms, Ocean View', 'Heavenly Beach Residence with 2 Bedrooms, Pool and Ocean View', 'Overwater Villa with Pool Access, 1 King Bed', 'Overwater Villa, 1 King Bed', 'Deluxe Beach Villa with Pool Access, 1 King Bed', 'Beach Villa with Pool Access, 1 King Bed']
+status: FAILED
+
+156. Thulhagiri Island Resort &Amp; Spa
+bookingHotelURL: https://www.booking.com/hotel/mv/thulhagiri-island-resort-amp-spa.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/thulhagiri-island-resort-spa/
+mtrRoomsNumber: 3
+bookingRoomsNumber: 3
+Status: SUCCESS
+
+157. Vakkaru Maldives
+bookingHotelURL: https://www.booking.com/hotel/mv/vakkaru-maldives.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/vakkaru-maldives/
+mtrRoomsNumber: 21
+bookingRoomsNumber: 21
+Status: SUCCESS
+
+158. Varu By Atmosphere Premium All Inclusive With Free Transfers
+bookingHotelURL: https://www.booking.com/hotel/mv/varu-by-atmosphere.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/varu-by-atmosphere-premium-all-inclusive-with-free-transfers/
+mtrRoomsNumber: 12
+bookingRoomsNumber: 12
+Status: SUCCESS
+
+159. Velassaru Maldives
+bookingHotelURL: https://www.booking.com/hotel/mv/velassaru-maldives.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/velassaru-maldives/
+mtrRoomsNumber: 11
+bookingRoomsNumber: 11
+Status: SUCCESS
+
+160. Veligandu Island Resort &Amp; Spa
+bookingHotelURL: https://www.booking.com/hotel/mv/veligandu-island-resort-amp-spa.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/veligandu-island-resort-spa/
+mtrRoomsNumber: 6
+bookingRoomsNumber: 6
+Status: SUCCESS
+
+161. Vilamendhoo Island Resort &Amp; Spa
+bookingHotelURL: https://www.booking.com/hotel/mv/vilamendhoo-island-resort-amp-spa.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/vilamendhoo-island-resort-spa/
+mtrRoomsNumber: 6
+bookingRoomsNumber: 5
+extra rooms found: 1
+booking rooms: ['Garden Villa', 'Jacuzzi Beach Villa', 'Jacuzzi Water Villa', ' Adjoining Beach Villa', 'Standalone Beach Villa']
+mtr rooms: ['Adjoining Beach Villa', 'Standalone Beach Villa', 'Adjoining Beach Villa', 'Jacuzzi Water Villa', 'Jacuzzi Beach Villa', 'Garden Villa']
+status: FAILED
+
+162. W Maldives
+bookingHotelURL: https://www.booking.com/hotel/mv/w-retreat-amp-spa-maldives.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/w-maldives/
+mtrRoomsNumber: 9
+bookingRoomsNumber: 6
+extra rooms found: 3
+booking rooms: ['Wonderful Beach Oasis Villa', 'Wonderful Beach Oasis Villa, 2 Queen Beds', '\t Fabulous Overwater Villa', 'WOW Ocean Escape, 2 Bedrooms Villa', '\t Extreme WOW Ocean Haven, 2 Bedrooms Villa', '\t Spectacular Overwater Villa']
+mtr rooms: ['Spectacular Overwater Villa', 'Extreme WOW Ocean Haven, 2 Bedrooms Villa', 'Fabulous Overwater Villa', 'Spectacular Overwater Villa', 'Extreme WOW Ocean Haven, 2 Bedrooms Villa', 'WOW Ocean Escape, 2 Bedrooms Villa', 'Fabulous Overwater Villa', 'Wonderful Beach Oasis Villa, 2 Queen Beds', 'Wonderful Beach Oasis Villa']
+status: FAILED
+
+163. Waldorf Astoria Maldives Ithaafushi
+bookingHotelURL: https://www.booking.com/hotel/mv/waldorf-astoria-maldives-ithaafushi.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/waldorf-astoria-maldives-ithaafushi/
+mtrRoomsNumber: 17
+bookingRoomsNumber: 17
+Status: SUCCESS
+
+164. You &Amp; Me Maldives
+bookingHotelURL: https://www.booking.com/hotel/mv/you-amp-me-maldives.en-gb.html
+mtrHotelURL: http://31.40.107.188/st_hotel/you-me-maldives/
+mtrRoomsNumber: 8
+bookingRoomsNumber: 7
+extra rooms found: 1
+booking rooms: ['Beach Suite with Pool with Floating Breakfast', 'Manta Villa', 'Dolphin Villa', 'Dolphin Villa with Pool', 'Aqua Suite', 'Aqua Suite with Pool with Floating Breakfast', 'You & Me Suite']
+mtr rooms: ['You & Me Suite', 'You & Me Suite', 'Aqua Suite with Pool with Floating Breakfast', 'Aqua Suite', 'Dolphin Villa with Pool', 'Dolphin Villa', 'Manta Villa', 'Beach Suite with Pool with Floating Breakfast']
+status: FAILED
+
+
+----------------------------------------
+success: 130
+failed: 34
+failed hotel numbers: [2, 7, 8, 9, 20, 27, 32, 33, 34, 40, 42, 45, 52, 69, 74, 75, 80, 83, 84, 85, 88, 95, 100, 102, 137, 138, 140, 142, 150, 151, 155, 161, 162, 164]

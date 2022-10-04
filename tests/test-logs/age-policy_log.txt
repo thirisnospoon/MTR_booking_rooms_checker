@@ -1,0 +1,332 @@
+1. adaaran club rannalhi
+Status: OK
+2. adaaran prestige vadoo
+Status: OK
+3. adaaran prestige water villas premium all inclusive
+Status: OK
+4. adaaran select huduran fushi premium all inclusive
+Status: OK
+5. adaaran select meedhupparu premium all inclusive
+Status: OK
+6. alila kothaifaru maldives
+Status: OK
+7. amari havodda maldives
+Status: OK
+8. amaya kuda rah
+Status: OK
+9. amilla maldives resort &amp; residences
+Status: OK
+10. anantara dhigu maldives resort
+Status: OK
+11. anantara kihavah maldives villas
+Status: OK
+12. anantara veli maldives resort
+Status: OK
+13. angsana ihuru all inclusive select
+Status: OK
+14. angsana velavaru – all inclusive select
+Status: OK
+15. angsana velavaru in-ocean villas all inclusive select
+Status: OK
+16. atmosphere kanifushi premium all inclusive with free transfers
+Status: OK
+17. ayada maldives
+Status: OK
+18. baglioni resort maldives the leading hotels of the world
+Status: OK
+19. bandos maldives
+Status: OK
+20. banyan tree vabbinfaru
+Status: OK
+21. baros maldives
+Status: OK
+22. biyadhoo island resort
+Status: OK
+23. brennia kottefaru maldives
+Status: OK
+24. canareef resort maldives
+Status: OK
+25. centara grand island resort &amp; spa
+Status: OK
+26. centara ras fushi resort &amp; spa maldives
+Status: OK
+27. cinnamon dhonveli maldives
+Status: OK
+28. cinnamon hakuraa huraa maldives all inclusive
+Status: OK
+29. cinnamon velifushi maldives
+Status: OK
+30. coco bodu hithi
+Status: OK
+31. coco palm dhuni kolhu
+Status: OK
+32. coco villa ukulhas
+Status: OK
+33. cocoon maldives all inclusive
+Status: OK
+34. como cocoa island
+Status: OK
+35. como maalifushi
+Status: OK
+36. conrad maldives rangali island
+Status: OK
+37. constance halaveli
+Status: OK
+38. constance moofushi maldives all inclusive
+Status: OK
+39. cora cora maldives premium all-inclusive resort
+Status: OK
+40. dhigali maldives a premium all-inclusive resort
+Status: OK
+41. dhigufaru island resort
+Status: OK
+42. diamonds athuruga maldives resort &amp; spa
+Status: OK
+43. diamonds thudufushi maldives resort &amp; spa
+Status: OK
+44. dreamland maldives resort
+Status: OK
+45. drift thelu veliga retreat
+Status: OK
+46. dusit thani maldives
+Status: OK
+47. ellaidhoo maldives by cinnamon
+Status: OK
+48. embudu village resort
+Status: OK
+49. emerald faarufushi resort &amp; spa deluxe all inclusive
+Status: OK
+50. emerald maldives resort &amp; spa-deluxe all inclusive
+Status: OK
+51. eriyadu island resort
+Status: OK
+52. fairmont maldives  sirru fen fushi
+Status: OK
+53. fihalhohi island resort
+Status: OK
+54. filitheyo island resort
+Status: OK
+55. finolhu baa atoll maldives
+Status: OK
+56. fiyavalhu resort maldives
+Status: OK
+57. four seasons resort maldives at kuda huraa
+Status: OK
+58. four seasons resort maldives at landaa giraavaru
+Status: OK
+59. furaveri maldives
+Status: OK
+60. fushifaru maldives
+Status: OK
+61. gangehi island resort &amp; spa
+Status: OK
+62. gili lankanfushi maldives
+Status: OK
+63. grand park kodhipparu maldives
+Status: OK
+64. green leaf guest house omadhoo
+Status: OK
+65. hard rock hotel maldives
+Status: OK
+66. heritance aarah-premium all inclusive
+Status: OK
+67. hideaway beach resort &amp; spa
+Status: OK
+68. hilton maldives amingiri resort &amp; spa
+Status: OK
+69. holiday inn resort kandooma maldives
+Status: OK
+70. hondaafushi island resort
+Status: OK
+71. hurawalhi island resort
+Status: OK
+72. huvafen fushi
+Status: OK
+73. innahura maldives resort
+Status: OK
+74. intercontinental maldives maamunagau resort  an ihg hotel
+Status: OK
+75. ja manafaru maldives
+Status: OK
+76. joali  maldives
+Status: OK
+77. joali being
+Status: OK
+78. jumeirah maldives  olhahali island
+Status: OK
+79. jw marriott maldives resort &amp; spa
+Status: OK
+80. kagi maldives spa island
+Status: OK
+81. kandima maldives
+Status: OK
+82. kandolhu maldives
+Status: OK
+83. kihaa maldives
+Status: OK
+84. komandoo island resort &amp; spa
+Status: OK
+85. kuda villingili resort maldives
+Status: OK
+86. kudadoo maldives private island – luxury all inclusive
+Status: OK
+87. kudafushi resort &amp; spa
+Status: OK
+88. kuramathi maldives
+Status: OK
+89. kuredu island resort &amp; spa
+Status: OK
+90. kurumba maldives
+Status: OK
+91. le méridien maldives resort &amp; spa
+Status: OK
+92. lily beach resort and spa all inclusive
+Status: OK
+93. lux* south ari atoll resort &amp; villas
+Status: OK
+94. makunudu island
+Status: OK
+95. malahini kuda bandos resort
+Status: OK
+96. medhufushi island resort
+Status: OK
+97. meeru island resort &amp; spa
+Status: OK
+98. mercure maldives kooddoo all-inclusive resort
+Status: OK
+99. milaidhoo island maldives
+Status: OK
+100. mirihi island resort
+Status: OK
+1. nakai dhiggiri resort
+http://31.40.107.188/st_hotel/nakai-dhiggiri-resort/
+https://www.booking.com/hotel/mv/nakai-dhiggiri-resort.en-gb.html
+mtrText: agerestrictionnoagerestrictionforcheckin.(onlychildren12andolderareallowed)
+bookingText: noagerestrictionthereisnoagerequirementforcheckin
+Status: FAIL
+2. naladhu private island maldives
+Status: OK
+3. nika island resort &amp; spa  maldives
+Status: OK
+4. niyama private islands maldives
+Status: OK
+5. noku maldives
+Status: OK
+6. nova maldives
+Status: OK
+7. oblu nature helengeli-all-inclusive with free transfers
+Status: OK
+8. oblu select sangeli premium all inclusive with free transfers
+Status: OK
+9. one&amp;only reethi rah
+Status: OK
+10. outrigger maldives maafushivaru maldives
+Status: OK
+11. ozen life maadhoo luxury all inclusive
+Status: OK
+12. ozen reserve bolifushi luxury all inclusive
+Status: OK
+13. paradise island resort &amp; spa
+Status: OK
+14. park hyatt maldives hadahaa
+Status: OK
+15. patina maldives  fari islands
+Status: OK
+16. pullman maldives all-inclusive resort
+Status: OK
+17. radisson blu resort maldives
+Status: OK
+18. raffles maldives meradhoo
+Status: OK
+19. rahaa resort
+Status: OK
+20. rasdu view inn
+Status: OK
+21. reethi beach resort
+Status: OK
+22. reethi faru  bio luxury resort
+Status: OK
+23. rekidhiye inn
+Status: OK
+1. rekidhiye inn
+Status: OK
+2. rihiveli maldives resort
+Status: OK
+3. riu atoll-all inclusive
+Status: OK
+4. riu palace maldivas- all inclusive
+Status: OK
+5. robinson maldives adults only
+Status: OK
+6. robinson noonu all inclusive
+Status: OK
+7. royal island resort at baa atoll biosphere reserve
+Status: OK
+8. safari island
+Status: OK
+9. saii lagoon maldives  curio collection by hilton
+Status: OK
+10. sandies bathala
+Status: OK
+11. sheraton maldives full moon resort &amp; spa with free transfers
+Status: OK
+12. six senses laamu
+Status: OK
+13. siyam world maldives 24-hour premium all-inclusive with free transfer
+Status: OK
+14. soneva fushi
+Status: OK
+15. soneva jani
+Status: OK
+16. south palm resort maldives
+Status: OK
+17. summer island maldives resort
+Status: OK
+18. sun island resort &amp; spa
+Status: OK
+19. sun siyam iru fushi
+Status: OK
+20. sun siyam iruveli premium all inclusive with free transfers
+Status: OK
+21. sun siyam olhuveli
+Status: OK
+22. sun siyam vilu reef
+Status: OK
+23. taj coral reef resort &amp; spa all inclusive with free transfers
+Status: OK
+24. taj exotica resort &amp; spa
+Status: OK
+25. the barefoot eco hotel
+Status: OK
+26. the nautilus maldives
+Status: OK
+27. the residence maldives
+Status: OK
+28. the residence maldives at dhigurah
+Status: OK
+29. the ritz-carlton maldives  fari islands
+Status: OK
+30. the st. regis maldives vommuli resort
+Status: OK
+31. the standard  huruvalhi maldives
+Status: OK
+32. the westin maldives miriandhoo resort
+Status: OK
+33. thulhagiri island resort &amp; spa
+Status: OK
+34. vakkaru maldives
+Status: OK
+35. varu by atmosphere premium all inclusive with free transfers
+Status: OK
+36. velassaru maldives
+Status: OK
+37. veligandu island resort &amp; spa
+Status: OK
+38. vilamendhoo island resort &amp; spa
+Status: OK
+39. w maldives
+Status: OK
+40. waldorf astoria maldives ithaafushi
+Status: OK
+41. you &amp; me maldives
+Status: OK
